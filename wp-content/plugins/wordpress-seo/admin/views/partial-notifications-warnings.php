@@ -1,0 +1,39 @@
+<br>
+<b>Notice</b>:  Undefined variable: notifications_data in <b>C:\xampp\htdocs\wp-content\plugins\wordpress-seo\admin\views\partial-notifications-warnings.php</b> on line <b>13</b><br>
+<br>
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\wp-content\plugins\wordpress-seo\admin\views\partial-notifications-warnings.php</b> on line <b>13</b><br>
+<br>
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\wp-content\plugins\wordpress-seo\admin\views\partial-notifications-warnings.php</b> on line <b>13</b><br>
+<br>
+<b>Notice</b>:  Undefined variable: notifications_data in <b>C:\xampp\htdocs\wp-content\plugins\wordpress-seo\admin\views\partial-notifications-warnings.php</b> on line <b>14</b><br>
+<br>
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\wp-content\plugins\wordpress-seo\admin\views\partial-notifications-warnings.php</b> on line <b>14</b><br>
+<br>
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\wp-content\plugins\wordpress-seo\admin\views\partial-notifications-warnings.php</b> on line <b>14</b><br>
+<br>
+<b>Notice</b>:  Undefined variable: notifications_data in <b>C:\xampp\htdocs\wp-content\plugins\wordpress-seo\admin\views\partial-notifications-warnings.php</b> on line <b>16</b><br>
+<br>
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\wp-content\plugins\wordpress-seo\admin\views\partial-notifications-warnings.php</b> on line <b>16</b><br>
+<br>
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\wp-content\plugins\wordpress-seo\admin\views\partial-notifications-warnings.php</b> on line <b>16</b><br>
+<br>
+<b>Warning</b>:  count(): Parameter must be an array or an object that implements Countable in <b>C:\xampp\htdocs\wp-content\plugins\wordpress-seo\admin\views\partial-notifications-warnings.php</b> on line <b>16</b><br>
+<br>
+<b>Notice</b>:  Undefined variable: notifications_data in <b>C:\xampp\htdocs\wp-content\plugins\wordpress-seo\admin\views\partial-notifications-warnings.php</b> on line <b>17</b><br>
+<br>
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\wp-content\plugins\wordpress-seo\admin\views\partial-notifications-warnings.php</b> on line <b>17</b><br>
+<br>
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\wp-content\plugins\wordpress-seo\admin\views\partial-notifications-warnings.php</b> on line <b>17</b><br>
+<br>
+<b>Warning</b>:  count(): Parameter must be an array or an object that implements Countable in <b>C:\xampp\htdocs\wp-content\plugins\wordpress-seo\admin\views\partial-notifications-warnings.php</b> on line <b>17</b><br>
+<br>
+<b>Notice</b>:  Undefined variable: notifications_data in <b>C:\xampp\htdocs\wp-content\plugins\wordpress-seo\admin\views\partial-notifications-warnings.php</b> on line <b>18</b><br>
+<br>
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\wp-content\plugins\wordpress-seo\admin\views\partial-notifications-warnings.php</b> on line <b>18</b><br>
+<br>
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\wp-content\plugins\wordpress-seo\admin\views\partial-notifications-warnings.php</b> on line <b>18</b><br>
+<br>
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function __() in C:\xampp\htdocs\wp-content\plugins\wordpress-seo\admin\views\partial-notifications-warnings.php:20
+Stack trace:
+#0 {main}
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\wordpress-seo\admin\views\partial-notifications-warnings.php</b> on line <b>20</b><br>

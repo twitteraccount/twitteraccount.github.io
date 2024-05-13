@@ -1,0 +1,4 @@
+<br>
+<b>Warning</b>:  require_once(C:\xampp\htdocs\wp-content\plugins\ad-inserter\includes\google-api\vendor\paragonie\constant_time_encoding\tests/../vendor/autoload.php): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\wp-content\plugins\ad-inserter\includes\google-api\vendor\paragonie\constant_time_encoding\tests\autoload.php</b> on line <b>2</b><br>
+<br>
+<b>Fatal error</b>:  require_once(): Failed opening required 'C:\xampp\htdocs\wp-content\plugins\ad-inserter\includes\google-api\vendor\paragonie\constant_time_encoding\tests/../vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in <b>C:\xampp\htdocs\wp-content\plugins\ad-inserter\includes\google-api\vendor\paragonie\constant_time_encoding\tests\autoload.php</b> on line <b>2</b><br>

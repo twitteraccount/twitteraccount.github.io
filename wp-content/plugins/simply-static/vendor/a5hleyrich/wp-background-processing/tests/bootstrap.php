@@ -1,0 +1,1 @@
+Could not find C:\Users\ADMINI~1\AppData\Local\Temp/wordpress-tests-lib/includes/functions.php, have you run bin/install-wp-tests.sh ?
