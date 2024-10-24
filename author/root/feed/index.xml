@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>推特账号购买平台</title>
-	<atom:link href="https://twitteraccount.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>https://twitteraccount.github.io/</link>
+	<title>电报平台，作者推特账号购买平台</title>
+	<atom:link href="https://twitteraccount.github.io/author/root/feed/" rel="self" type="application/rss+xml" />
+	<link>https://twitteraccount.github.io/author/root/</link>
 	<description></description>
 	<lastBuildDate>Thu, 24 Oct 2024 17:28:03 +0000</lastBuildDate>
 	<language>zh-CN</language>
