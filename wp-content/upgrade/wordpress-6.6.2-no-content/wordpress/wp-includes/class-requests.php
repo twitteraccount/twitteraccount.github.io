@@ -1,0 +1,2 @@
+<br>
+<b>Deprecated</b>:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in <b>C:\xampp\htdocs\wp-content\upgrade\wordpress-6.6.2-no-content\wordpress\wp-includes\class-requests.php</b> on line <b>24</b><br>
