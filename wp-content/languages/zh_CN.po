@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 6.7.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-09 03:10:04+0000\n"
+"PO-Revision-Date: 2025-01-12 05:35:18+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -285,6 +285,66 @@ msgstr "1 月"
 #, gp-priority: high
 msgid "Uncategorized"
 msgstr "未分类"
+
+#: wp-includes/theme.json
+msgctxt "Shadow name"
+msgid "Crisp"
+msgstr "明晰"
+
+#: wp-includes/theme.json
+msgctxt "Shadow name"
+msgid "Outlined"
+msgstr "轮廓"
+
+#: wp-includes/theme.json
+msgctxt "Shadow name"
+msgid "Sharp"
+msgstr "锐利"
+
+#: wp-includes/theme.json
+msgctxt "Shadow name"
+msgid "Deep"
+msgstr "加深"
+
+#: wp-includes/theme.json
+msgctxt "Shadow name"
+msgid "Natural"
+msgstr "自然"
+
+#: wp-includes/theme.json
+msgctxt "Aspect ratio name"
+msgid "Tall - 9:16"
+msgstr "高 - 9:16"
+
+#: wp-includes/theme.json
+msgctxt "Aspect ratio name"
+msgid "Wide - 16:9"
+msgstr "宽 - 16:9"
+
+#: wp-includes/theme.json
+msgctxt "Aspect ratio name"
+msgid "Classic Portrait - 2:3"
+msgstr "经典竖向 - 2:3"
+
+#: wp-includes/theme.json
+msgctxt "Aspect ratio name"
+msgid "Classic - 3:2"
+msgstr "经典 - 3:2"
+
+#: wp-includes/theme.json
+msgctxt "Aspect ratio name"
+msgid "Portrait - 3:4"
+msgstr "竖向 - 3:4"
+
+#: wp-includes/theme.json
+msgctxt "Aspect ratio name"
+msgid "Standard - 4:3"
+msgstr "标准 - 4:3"
+
+#: wp-includes/theme.json
+msgctxt "Aspect ratio name"
+msgid "Square - 1:1"
+msgstr "正方形 - 1:1"
 
 #: wp-includes/blocks/tag-cloud/block.json
 msgctxt "block description"
@@ -2998,6 +3058,11 @@ msgstr "图标"
 msgid "Site icon."
 msgstr "站点图标。"
 
+#: wp-includes/theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "超大"
+
 #: wp-includes/blocks/term-description/block.json
 msgctxt "block description"
 msgid "Display the description of categories, tags and custom taxonomies when viewing an archive."
@@ -3849,6 +3914,181 @@ msgstr "常规模板通常执行特定的作用，如显示文章内容，而不
 #: wp-includes/admin-bar.php:482 wp-admin/site-editor.php:185
 msgid "Edit site"
 msgstr "编辑站点"
+
+#: wp-includes/theme.json
+msgctxt "Duotone name"
+msgid "Blue and orange"
+msgstr "蓝色与橙色"
+
+#: wp-includes/theme.json
+msgctxt "Duotone name"
+msgid "Purple and green"
+msgstr "紫色与绿色"
+
+#: wp-includes/theme.json
+msgctxt "Duotone name"
+msgid "Magenta and yellow"
+msgstr "洋红色与黄色"
+
+#: wp-includes/theme.json
+msgctxt "Duotone name"
+msgid "Midnight"
+msgstr "午夜"
+
+#: wp-includes/theme.json
+msgctxt "Duotone name"
+msgid "Blue and red"
+msgstr "蓝色与红色"
+
+#: wp-includes/theme.json
+msgctxt "Duotone name"
+msgid "Purple and yellow"
+msgstr "紫色与黄色"
+
+#: wp-includes/theme.json
+msgctxt "Duotone name"
+msgid "Grayscale"
+msgstr "灰度"
+
+#: wp-includes/theme.json
+msgctxt "Duotone name"
+msgid "Dark grayscale"
+msgstr "深灰度"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Midnight"
+msgstr "午夜"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Electric grass"
+msgstr "电草"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Pale ocean"
+msgstr "海洋蓝色"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Luminous dusk"
+msgstr "暮色黄"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Blush bordeaux"
+msgstr "波尔多红"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Blush light purple"
+msgstr "淡紫色"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Cool to warm spectrum"
+msgstr "冷暖光谱"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Very light gray to cyan bluish gray"
+msgstr "极浅灰色至青蓝灰色"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Luminous vivid orange to vivid red"
+msgstr "亮鲜橙色到鲜红色"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Luminous vivid amber to luminous vivid orange"
+msgstr "荧光琥珀色到荧光橙色"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Light green cyan to vivid green cyan"
+msgstr "浅绿青色到鲜绿青色"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Vivid cyan blue to vivid purple"
+msgstr "艳青蓝色到艳紫色"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "Vivid purple"
+msgstr "艳紫色"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "Vivid cyan blue"
+msgstr "鲜青蓝色"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "Pale cyan blue"
+msgstr "浅青蓝色"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "Vivid green cyan"
+msgstr "鲜青色"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "Light green cyan"
+msgstr "浅绿青色"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "Luminous vivid amber"
+msgstr "荧光琥珀色"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "Luminous vivid orange"
+msgstr "荧光橙色"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "Vivid red"
+msgstr "鲜红色"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "Pale pink"
+msgstr "浅粉色"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "White"
+msgstr "白色"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "Cyan bluish gray"
+msgstr "青蓝灰色"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "Black"
+msgstr "黑色"
+
+#: wp-includes/theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "大"
+
+#: wp-includes/theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "中等"
+
+#: wp-includes/theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "小"
 
 #: wp-includes/blocks/query-pagination-previous.php:26
 #: wp-includes/js/dist/block-library.js:49958
@@ -5160,7 +5400,7 @@ msgstr "（首页链接，在新标签页中打开）"
 
 #. translators: 1: Block type, 2: Typography supports key, e.g: fontSize,
 #. lineHeight, etc. 3: block.json, 4: Old metadata key, 5: New metadata key.
-#: wp-includes/blocks.php:2383
+#: wp-includes/blocks.php:2384
 msgid "Block \"%1$s\" is declaring %2$s support in %3$s file under %4$s. %2$s support is now declared under %5$s."
 msgstr "区块「%1$s」正在 %4$s 下的 %3$s 文件中声明 %2$s 支持。现在，%2$s 支持被声明在 %5$s 下。"
 
@@ -5669,7 +5909,7 @@ msgstr "是否在限制结果集的项目中包含子项目。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3238
 msgid "Term IDs."
-msgstr "项目 ID。"
+msgstr "术语 ID。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3234
 msgid "Perform an advanced term query."
@@ -5677,7 +5917,7 @@ msgstr "进行一项高级项目查询。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3233
 msgid "Term ID Taxonomy Query"
-msgstr "项目 ID 分类法查询。"
+msgstr "术语 ID 分类法查询。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3226
 msgid "Match terms with the listed IDs."
@@ -5685,7 +5925,7 @@ msgstr "将项目与列出的 ID 相匹配。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3225
 msgid "Term ID List"
-msgstr "项目 ID 列表"
+msgstr "术语 ID 列表"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2919
 msgid "Limit response to posts modified before a given ISO8601 compliant date."
@@ -5805,7 +6045,7 @@ msgid "An application name is required to create an application password."
 msgstr "创建应用程序密码需要应用程序名称。"
 
 #: wp-includes/media-template.php:552 wp-includes/media-template.php:804
-#: wp-admin/async-upload.php:77 wp-admin/includes/media.php:3367
+#: wp-admin/async-upload.php:79 wp-admin/includes/media.php:3367
 msgid "Copy URL to clipboard"
 msgstr "复制网址至剪贴板"
 
@@ -8216,7 +8456,7 @@ msgstr "可见性："
 
 #: wp-includes/media-template.php:553 wp-includes/media-template.php:805
 #: wp-includes/js/dist/components.js:37976 wp-includes/js/dist/editor.js:19228
-#: wp-admin/async-upload.php:78
+#: wp-admin/async-upload.php:80
 #: wp-admin/includes/class-wp-media-list-table.php:830
 #: wp-admin/includes/class-wp-privacy-policy-content.php:431
 #: wp-admin/includes/media.php:3368 wp-admin/site-health-info.php:59
@@ -10518,7 +10758,7 @@ msgstr "创建新用户时出错。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1074
 msgid "The parent term ID."
-msgstr "父项目 ID。"
+msgstr "父术语 ID。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1044
 msgid "HTML title for the term."
@@ -12778,7 +13018,7 @@ msgstr "请改用 %s 如果您不希望该值被回显。"
 
 #: wp-includes/class-wp-term.php:160
 msgid "Term ID is shared between multiple taxonomies"
-msgstr "项目 ID 在多个分类法间共享"
+msgstr "术语 ID 在多个分类法间共享"
 
 #: wp-includes/taxonomy.php:1397 wp-includes/taxonomy.php:1462
 msgid "Term meta cannot be added to terms that are shared between taxonomies."
@@ -16512,7 +16752,7 @@ msgstr "抱歉，项目编辑失败。"
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:422
 #: wp-includes/taxonomy.php:2431
 msgid "Invalid term ID."
-msgstr "无效的项目 ID。"
+msgstr "无效的术语 ID。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:194
 #: wp-admin/edit-tags.php:23
@@ -16718,7 +16958,7 @@ msgstr "抱歉，您不能向某些分类法添加项目。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1632
 msgid "Ambiguous term name used in a hierarchical taxonomy. Please use term ID instead."
-msgstr "层级分类法项名不明确，请指定项目的 ID。"
+msgstr "层级分类法术语名不明确，请指定术语的 ID。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1576
 #: wp-includes/class-wp-xmlrpc-server.php:1603
@@ -16841,7 +17081,7 @@ msgstr "%s 超出了您浏览器对高级多文件上传工具所做的大小限
 
 #. translators: %s: File name.
 #. translators: %s: Name of the file that failed to upload.
-#: wp-includes/script-loader.php:1008 wp-admin/async-upload.php:124
+#: wp-includes/script-loader.php:1008 wp-admin/async-upload.php:126
 msgid "&#8220;%s&#8221; has failed to upload."
 msgstr "「%s」上传失败。"
 
@@ -20182,7 +20422,7 @@ msgstr "搜索"
 #: wp-includes/script-loader.php:1004
 #: wp-includes/widgets/class-wp-widget-text.php:547
 #: wp-includes/widgets/class-wp-widget-text.php:562
-#: wp-includes/js/wp-pointer.js:20 wp-admin/async-upload.php:120
+#: wp-includes/js/wp-pointer.js:20 wp-admin/async-upload.php:122
 #: wp-admin/includes/dashboard.php:1763 wp-admin/includes/file.php:348
 #: wp-admin/index.php:187
 msgid "Dismiss"
