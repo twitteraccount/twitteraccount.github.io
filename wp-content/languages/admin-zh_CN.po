@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 6.7.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-20 16:45:59+0000\n"
+"PO-Revision-Date: 2025-03-26 06:53:42+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -136,68 +136,68 @@ msgid "Skip to Editor"
 msgstr "跳转到编辑器"
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:279
+#: wp-admin/about.php:304
 msgid "WordPress %s Field Guide"
-msgstr "WordPress %s 字段指南"
+msgstr "WordPress %s 技术指南"
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:252
+#: wp-admin/about.php:277
 msgid "WordPress %s Release Notes"
 msgstr "WordPress %s 发布说明"
 
-#: wp-admin/about.php:184
+#: wp-admin/about.php:209
 msgid "65+ accessibility fixes and enhancements focus on foundational aspects of the WordPress experience, from improving user interface components and keyboard navigation in the Editor, to an accessible heading on WordPress login screens and clearer labeling throughout."
 msgstr "超过 65 项可访问性修复和增强功能集中在 WordPress 体验的基础方面，从改进编辑器中的用户界面组件和键盘导航，到 WordPress 登录屏幕上的可访问标题和更清晰的标签。"
 
-#: wp-admin/about.php:175
+#: wp-admin/about.php:200
 msgid "WordPress 6.7 delivers important performance updates, including faster pattern loading, optimized previews in the data views component, improved PHP 8+ support and removal of deprecated code, auto sizes for lazy-loaded images, and more efficient tag processing in the HTML API."
 msgstr "WordPress 6.7 提供了重要的性能更新，包括更快的样板加载、优化数据视图组件中的预览、改进 PHP 8+ 支持并删除过时代码、自动调整懒加载图片的大小，以及 HTML API 中更高效的标签处理。"
 
-#: wp-admin/about.php:159
+#: wp-admin/about.php:184
 msgid "Create, edit, remove, and apply font size presets with the next addition to the Styles interface. Override theme defaults or create your own custom font size, complete with fluid typography for responsive font scaling. Get into the details!"
 msgstr "通过样式界面的下一个新增功能，创建、编辑、删除和应用字体大小预设。您可以覆盖主题默认设置，或创建自己的自定义字体大小，并通过流畅的排版实现响应式字体缩放。了解详情！"
 
-#: wp-admin/about.php:158
+#: wp-admin/about.php:183
 msgid "New style section, new possibilities"
 msgstr "新的样式部分，新的可能性"
 
-#: wp-admin/about.php:156
+#: wp-admin/about.php:181
 msgid "Embrace your inner font nerd"
 msgstr "拥抱你内心的字体"
 
-#: wp-admin/about.php:139
+#: wp-admin/about.php:164
 msgid "This feature introduces a new UI for connecting blocks to custom fields, putting control of dynamic content directly in the editor. Link blocks with fields in just a few clicks, enhancing flexibility and efficiency when building. Your clients will love you—as if they didn&#8217;t already."
 msgstr "此功能引入了一个新的 UI，用于将区块连接到自定义字段，将动态内容的控制直接放在编辑器中。只需单击几下即可将区块与字段链接起来，从而提高构建时的灵活性和效率。您的客户会爱上您——如果他们以前不爱您的话。"
 
-#: wp-admin/about.php:138
+#: wp-admin/about.php:163
 msgid "A streamlined way to create dynamic content"
 msgstr "创建动态内容的简化方法"
 
-#: wp-admin/about.php:136
+#: wp-admin/about.php:161
 msgid "Connect blocks and custom fields with no hassle (or code)"
 msgstr "轻松连接区块和自定义字段（或代码）"
 
-#: wp-admin/about.php:129
+#: wp-admin/about.php:154
 msgid "Edit and arrange entire sections of your content like never before. A broader view of your site lets you add, edit, shuffle, or remove patterns to your liking. Embrace your inner architect."
 msgstr "以前所未有的方式编辑和安排内容的整个部分。您可以从更广阔的视角查看网站，根据自己的喜好添加、编辑、调整或删除样板。拥抱你内心的建筑师。"
 
-#: wp-admin/about.php:128
+#: wp-admin/about.php:153
 msgid "Explore your content from a new perspective"
 msgstr "从新的角度探索您的内容"
 
-#: wp-admin/about.php:126
+#: wp-admin/about.php:151
 msgid "Get the big picture with Zoom Out"
 msgstr "使用「缩小」功能查看全局视图"
 
-#: wp-admin/about.php:109
+#: wp-admin/about.php:134
 msgid "Twenty Twenty-Five offers a flexible, design-focused theme that lets you build stunning sites with ease. Tailor your aesthetic with an array of style options, block patterns, and color palettes. Pared down to the essentials, this is a theme that can truly grow with you."
 msgstr "二〇二五是一款灵活、注重设计的主题，可让您轻松创建令人惊叹的网站。您可以使用各种风格选项、区块样板和调色板来定制自己的审美观。这款主题简约而不简单，是一款真正能与你共同成长的主题。"
 
-#: wp-admin/about.php:108
+#: wp-admin/about.php:133
 msgid "Endless possibility without complexity"
 msgstr "不复杂的无限可能"
 
-#: wp-admin/about.php:99
+#: wp-admin/about.php:124
 msgid "WordPress 6.7 debuts the modern Twenty Twenty-Five theme, offering ultimate design flexibility for any blog at any scale. Control your site typography like never before with new font management features. The new Zoom Out feature lets you design your site with a macro view, stepping back from the details to bring the big picture to life."
 msgstr "WordPress 6.7 首次推出了现代化的二〇二五主题，为任何规模的博客提供了终极设计灵活性。使用新的字体管理功能，以前所未有的方式控制网站排版。新的「缩小」功能可让您以宏观视角设计网站，从细节中抽身而出，让全局栩栩如生。"
 
@@ -356,20 +356,20 @@ msgstr "如果您是插件作者，可以了解更多有关<a href=\"https://dev
 msgid "If you are a plugin author, you can learn more about <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-eraser-to-your-plugin/\">how to add the Personal Data Eraser to a plugin</a>."
 msgstr "如果您是插件作者，可以了解更多有关<a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-eraser-to-your-plugin/\">如何将个人数据抹除器添加到插件</a>的信息。"
 
-#: wp-admin/about.php:205
+#: wp-admin/about.php:230
 msgid "See everything new"
 msgstr "查看所有新内容"
 
-#: wp-admin/about.php:205
+#: wp-admin/about.php:230
 msgid "https://wordpress.org/download/releases/6-7/"
 msgstr "https://cn.wordpress.org/download/releases/6-7/"
 
 #. translators: %s: Version number.
-#: wp-admin/about.php:197
+#: wp-admin/about.php:222
 msgid "For a comprehensive overview of all the new features and enhancements in WordPress %s, please visit the feature-showcase website."
 msgstr "要全面了解 WordPress %s 的所有新功能和改进项目，请访问功能展示网站。"
 
-#: wp-admin/about.php:191
+#: wp-admin/about.php:216
 msgid "And much more"
 msgstr "还有更多"
 
@@ -511,11 +511,11 @@ msgstr "立即安装"
 msgid "Created by a worldwide team of passionate individuals"
 msgstr "由全球热心人士组成的团队打造"
 
-#: wp-admin/about.php:183
+#: wp-admin/about.php:208
 msgid "Accessibility improvements"
 msgstr "可访问性改进"
 
-#: wp-admin/about.php:174
+#: wp-admin/about.php:199
 msgid "Performance updates"
 msgstr "性能更新"
 
@@ -585,14 +585,14 @@ msgid "When using Bulk Edit, you can change the metadata (categories, author, et
 msgstr "使用批量编辑时，您可以一次性更改所有选定文章的元数据（类别、作者等）。要从分组中移除一篇文章，只需点击批量编辑区域中其名称旁边的 %s<span class=\"screen-reader-text\">移除</span>按钮即可。"
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:262
+#: wp-admin/about.php:287
 msgid "Read the WordPress %s Release Notes for information on installation, enhancements, fixed issues, release contributors, learning resources, and the list of file changes."
 msgstr "请阅读 WordPress %s 发行说明，了解有关安装、增强功能、修复问题、发行贡献者、学习资源和文件更改列表的信息。"
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:289
+#: wp-admin/about.php:314
 msgid "Explore the WordPress %s Field Guide. Learn about the changes in this release with detailed developer notes to help you build with WordPress."
-msgstr "探索 WordPress %s 特性指南。 通过详细的开发人员说明了解此版本中的更改，以帮助您使用 WordPress 进行构建。"
+msgstr "探索 WordPress %s 技术指南。 通过详细的开发人员说明了解此版本中的更改，以帮助您使用 WordPress 进行构建。"
 
 #: wp-admin/includes/user.php:721 wp-admin/includes/user.php:744
 msgid "Invalid URL format."
@@ -611,7 +611,7 @@ msgid "Your WordPress version is %1$s, however the new plugin version requires %
 msgstr "您的 WordPress 版本是 %1$s，但新插件版本需要 %2$s。"
 
 #. translators: %s: WordPress version.
-#: wp-admin/about.php:78
+#: wp-admin/about.php:78 wp-admin/about.php:103
 msgid "https://wordpress.org/support/wordpress-version/version-%s/"
 msgstr "https://wordpress.org/support/wordpress-version/version-%s/"
 
@@ -1078,14 +1078,14 @@ msgid "Be the future of WordPress"
 msgstr "成为 WordPress 的未来"
 
 #. translators: 1: Learn WordPress link, 2: Workshops link.
-#: wp-admin/about.php:230
+#: wp-admin/about.php:255
 msgid "<a href=\"%1$s\">Learn WordPress</a> is a free resource for new and experienced WordPress users. Learn is stocked with how-to videos on using various features in WordPress, <a href=\"%2$s\">interactive workshops</a> for exploring topics in-depth, and lesson plans for diving deep into specific areas of WordPress."
 msgstr "<a href=\"%1$s\">学习 WordPress</a> 是为 WordPress 新用户和经验丰富的用户提供的免费资源。学习包含有关使用 WordPress 中的各种功能的操作视频、用于深入探索主题的<a href=\"%2$s\">互动活动</a>以及用于深入了解 WordPress 特定领域的课程计划。"
 
 #: wp-admin/comment.php:73 wp-admin/edit-comments.php:232
 #: wp-admin/edit-form-advanced.php:320 wp-admin/edit-form-advanced.php:338
 #: wp-admin/edit-form-advanced.php:356 wp-admin/edit-link-form.php:77
-#: wp-admin/edit-tags.php:312 wp-admin/edit.php:302 wp-admin/edit.php:327
+#: wp-admin/edit-tags.php:315 wp-admin/edit.php:302 wp-admin/edit.php:327
 #: wp-admin/erase-personal-data.php:66 wp-admin/export-personal-data.php:66
 #: wp-admin/export.php:60 wp-admin/includes/class-custom-background.php:111
 #: wp-admin/includes/class-custom-image-header.php:146 wp-admin/index.php:133
@@ -1223,12 +1223,12 @@ msgid "<a href=\"https://wordpress.org/documentation/article/customizer/\">Docum
 msgstr "<a href=\"https://wordpress.org/documentation/article/customizer/\">定制器文档</a>"
 
 #. translators: The localized WordPress download URL.
-#: wp-admin/about.php:370
+#: wp-admin/about.php:395
 msgid "https://wordpress.org/download/"
 msgstr "https://cn.wordpress.org/download/"
 
 #. translators: %s: The major version of WordPress for this branch.
-#: wp-admin/about.php:367
+#: wp-admin/about.php:392
 msgid "This is the final release of WordPress %s"
 msgstr "这是 WordPress %s 的最终版本"
 
@@ -1554,12 +1554,12 @@ msgid "Reach out to WordPress Core developers to ensure you'll never have this p
 msgstr "联系 WordPress 核心开发人员以确保您不会再遇到这个问题。"
 
 #. translators: 1: WordPress version number, 2: Link to update WordPress
-#: wp-admin/about.php:364
+#: wp-admin/about.php:389
 msgid "Important! Your version of WordPress (%1$s) will stop receiving security updates in the near future. To keep your site secure, please <a href=\"%2$s\">update to the latest version of WordPress</a>."
 msgstr "重要！您使用的 WordPress 版本（%1$s）即将停止接收安全更新。 为了确保您站点的安全，请尽快 <a href=\"%2$s\">更新到最新的 WordPress 版本</a>。"
 
 #. translators: 1: WordPress version number, 2: Link to update WordPress
-#: wp-admin/about.php:361
+#: wp-admin/about.php:386
 msgid "Important! Your version of WordPress (%1$s) is no longer supported, you will not receive any security updates for your website. To keep your site secure, please <a href=\"%2$s\">update to the latest version of WordPress</a>."
 msgstr "重要！您使用的 WordPress 版本（%1$s）已不再受到支持，您的站点将不会再接收到任何的安全更新。 为了确保您站点的安全，请尽快 <a href=\"%2$s\">更新到最新的 WordPress 版本</a>。"
 
@@ -1569,7 +1569,7 @@ msgid "https://make.wordpress.org/core/wordpress-%s-field-guide/"
 msgstr "https://make.wordpress.org/core/wordpress-%s-field-guide/"
 
 #. translators: %s: Version number.
-#: wp-admin/about.php:221
+#: wp-admin/about.php:246
 msgid "Learn more about WordPress %s"
 msgstr "了解 WordPress %s"
 
@@ -2474,7 +2474,7 @@ msgstr "新增的应用程序密码"
 msgid "Required to create an Application Password, but not to update the user."
 msgstr "此功能需要创建应用程序密码，但不需要更新用户信息。"
 
-#: wp-admin/about.php:305
+#: wp-admin/about.php:330
 msgid "Go to Updates"
 msgstr "转到「更新」页面"
 
@@ -2775,7 +2775,7 @@ msgid "Unable to generate personal data export file. ZipArchive not available."
 msgstr "无法生成个人数据导出文件。 ZipArchive 不可用。"
 
 #. translators: %s: Search query.
-#: wp-admin/edit-comments.php:282 wp-admin/edit-tags.php:340
+#: wp-admin/edit-comments.php:282 wp-admin/edit-tags.php:343
 #: wp-admin/edit.php:429 wp-admin/link-manager.php:111 wp-admin/plugins.php:778
 #: wp-admin/upload.php:430 wp-admin/users.php:795 wp-admin/js/updates.js:3139
 #: wp-admin/network/sites.php:399 wp-admin/network/themes.php:374
@@ -4051,11 +4051,11 @@ msgstr "导出报告总览。"
 msgid "<a href=\"https://wordpress.org/documentation/article/settings-writing-screen/\">Documentation on Writing Settings</a>"
 msgstr "<a href=\"https://wordpress.org/documentation/article/settings-writing-screen/\">写作设置文档</a>"
 
-#: wp-admin/edit-tags.php:309
+#: wp-admin/edit-tags.php:312
 msgid "<a href=\"https://wordpress.org/documentation/article/posts-tags-screen/\">Documentation on Tags</a>"
 msgstr "<a href=\"https://wordpress.org/documentation/article/posts-tags-screen/\">标签文档</a>"
 
-#: wp-admin/edit-tags.php:305
+#: wp-admin/edit-tags.php:308
 msgid "<a href=\"https://wordpress.org/documentation/article/posts-categories-screen/\">Documentation on Categories</a>"
 msgstr "<a href=\"https://wordpress.org/documentation/article/posts-categories-screen/\">分类文档</a>"
 
@@ -5640,7 +5640,7 @@ msgid "Could not resume the theme."
 msgstr "未能恢复此主题。"
 
 #. translators: %s: Default category.
-#: wp-admin/edit-tags.php:629
+#: wp-admin/edit-tags.php:632
 msgid "Deleting a category does not delete the posts in that category. Instead, posts that were only assigned to the deleted category are set to the default category %s. The default category cannot be deleted."
 msgstr "删除分类不会删除分类中的文章。然而，仅隶属于已删除分类的文章将会分入默认分类 %s 中。默认分类不能被删除。"
 
@@ -6896,7 +6896,7 @@ msgstr "启用"
 msgid "Allow link notifications from other blogs (pingbacks and trackbacks) on new posts"
 msgstr "允许其他博客发送链接通知（Pingback 和 Trackback）到新文章"
 
-#: wp-admin/menu-header.php:281 wp-admin/js/common.js:2109
+#: wp-admin/menu-header.php:281 wp-admin/js/common.js:2114
 msgid "Collapse Main menu"
 msgstr "折叠主菜单"
 
@@ -7905,7 +7905,7 @@ msgid "(Currently set to: %s)"
 msgstr "（当前设置为：%s）"
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:335
+#: wp-admin/about.php:360
 msgid "<strong>Version %s</strong> addressed one security issue."
 msgstr "<strong>版本 %s</strong>修正了一个安全问题。"
 
@@ -7918,15 +7918,15 @@ msgstr "https://cn.gravatar.com/"
 msgid "Profile Picture"
 msgstr "资料图片"
 
-#: wp-admin/about.php:58 wp-admin/about.php:332
+#: wp-admin/about.php:58 wp-admin/about.php:357
 msgid "Maintenance and Security Releases"
 msgstr "维护和安全更新"
 
-#: wp-admin/about.php:329
+#: wp-admin/about.php:354
 msgid "Security Releases"
 msgstr "安全更新"
 
-#: wp-admin/about.php:326
+#: wp-admin/about.php:351
 msgid "Maintenance Releases"
 msgstr "维护更新"
 
@@ -8611,7 +8611,7 @@ msgstr "您也可以从许多知名网站（如 Twitter 、 YouTube 、 Flickr�
 msgid "<a href=\"https://codex.wordpress.org/Appearance_Background_Screen\">Documentation on Custom Background</a>"
 msgstr "<a href=\"https://codex.wordpress.org/Appearance_Background_Screen\">自定义背景文档</a>"
 
-#: wp-admin/edit-tags.php:307
+#: wp-admin/edit-tags.php:310
 msgid "<a href=\"https://codex.wordpress.org/Links_Link_Categories_Screen\">Documentation on Link Categories</a>"
 msgstr "<a href=\"https://codex.wordpress.org/Links_Link_Categories_Screen\">链接分类文档</a>"
 
@@ -10348,7 +10348,7 @@ msgstr "%s 当前正在编辑"
 msgid "You can upload and insert media (images, audio, documents, etc.) by clicking the Add Media button. You can select from the images and files already uploaded to the Media Library, or upload new media to add to your page or post. To create an image gallery, select the images to add and click the &#8220;Create a new gallery&#8221; button."
 msgstr "您可以通过点击「添加媒体」按钮上传或插入多媒体文件（图片、音频、文档等）。您可以从已经上传到媒体库的文件中选择，并直接插入文章，或者上传新的文件，然后再插入。要创建相册，选择要添加的图片，并点击「创建新相册」按钮。"
 
-#: wp-admin/about.php:106
+#: wp-admin/about.php:131
 msgid "Introducing Twenty Twenty-Five"
 msgstr "介绍二〇二五"
 
@@ -10365,7 +10365,7 @@ msgstr "如果您需要使用链接管理器，请安装<a href=\"%s\">链接管
 msgid "When changing themes, there is often some variation in the number and setup of widget areas/sidebars and sometimes these conflicts make the transition a bit less smooth. If you changed themes and seem to be missing widgets, scroll down on this screen to the Inactive Widgets area, where all of your widgets and their settings will have been saved."
 msgstr "在更换主题时，边栏的数量通常各不相同，有时这些冲突会给更换主题的过程带来一些小麻烦。如果您更换主题后发现边栏小工具缺失，请看看本页面下方的「未启用」区域，您的小工具及其设置将会被保存在那里。"
 
-#: wp-admin/edit-tags.php:286
+#: wp-admin/edit-tags.php:289
 msgid "<strong>Parent</strong> &mdash; Categories, unlike tags, can have a hierarchy. You might have a Jazz category, and under that have child categories for Bebop and Big Band. Totally optional. To create a subcategory, just choose another category from the Parent dropdown."
 msgstr "<strong>父极分类</strong>与标签不同，它可以有层级结构。您可以有一个名为「音乐」的分类，在该分类下可以有名为「流行」和「古典」的子分类（完全可选）。要创建子分类，只需从父级分类下拉菜单中选择一个分类即可。"
 
@@ -10578,11 +10578,11 @@ msgid "Select comment"
 msgstr "选择评论"
 
 #. translators: %s: URL to Categories to Tags Converter tool.
-#: wp-admin/edit-tags.php:653
+#: wp-admin/edit-tags.php:656
 msgid "Tags can be selectively converted to categories using the <a href=\"%s\">tag to category converter</a>."
 msgstr "标签可以选择性地转换成分类，请使用<a href=\"%s\">分类与标签转换器</a>。"
 
-#: wp-admin/edit-tags.php:260
+#: wp-admin/edit-tags.php:263
 msgid "You can delete Link Categories in the Bulk Action pull-down, but that action does not delete the links within the category. Instead, it moves them to the default Link Category."
 msgstr "您可以通过「批量操作」来一次删除多个链接分类，但是删除操作并不影响分类中的链接。其下链接将被自动移至默认的链接分类。"
 
@@ -11220,44 +11220,44 @@ msgstr "在浏览站点时显示工具栏"
 
 #. translators: %s: HelpHub URL.
 #. translators: %s: Documentation URL.
-#: wp-admin/about.php:75 wp-admin/about.php:358
+#: wp-admin/about.php:75 wp-admin/about.php:100 wp-admin/about.php:383
 msgid "For more information, see <a href=\"%s\">the release notes</a>."
 msgstr "欲了解更多，参见<a href=\"%s\">发行注记</a>。"
 
 #. translators: 1: WordPress version number, 2: Plural number of bugs. More
 #. than one security issue.
-#: wp-admin/about.php:352
+#: wp-admin/about.php:377
 msgid "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bugs."
 msgstr[0] "<strong>%1$s 版本</strong>修补了安全漏洞、修正了 %2$s 个问题。"
 
 #. translators: 1: WordPress version number, 2: Plural number of bugs. Singular
 #. security issue.
-#: wp-admin/about.php:346
+#: wp-admin/about.php:371
 msgid "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bugs."
 msgstr[0] "<strong>%1$s 版本</strong>修补了安全漏洞、修正了 %2$s 个问题。"
 
 #. translators: 1: WordPress version number, 2: Plural number of bugs.
-#: wp-admin/about.php:63 wp-admin/about.php:340
+#: wp-admin/about.php:63 wp-admin/about.php:88 wp-admin/about.php:365
 msgid "<strong>Version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed %2$s bugs."
 msgstr[0] "<strong>%1$s 版本</strong>修复了 %2$s 个问题。"
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:337
+#: wp-admin/about.php:362
 msgid "<strong>Version %s</strong> addressed some security issues."
 msgstr "<strong>版本 %s</strong> 修正了一些安全问题。"
 
-#: wp-admin/about.php:331
+#: wp-admin/about.php:356
 msgid "Maintenance and Security Release"
 msgstr "维护和安全更新"
 
-#: wp-admin/about.php:328
+#: wp-admin/about.php:353
 msgid "Security Release"
 msgstr "安全更新"
 
-#: wp-admin/about.php:325
+#: wp-admin/about.php:350
 msgid "Maintenance Release"
 msgstr "维护更新"
 
@@ -11279,11 +11279,11 @@ msgstr "欢迎使用 WordPress %1$s。<a href=\"%2$s\">了解更多</a>。"
 msgid "You can upload media files here without creating a post first. This allows you to upload files to use with posts and pages later and/or to get a web link for a particular file that you can share. There are three options for uploading files:"
 msgstr "您可以不创建文章，直接上传媒体文件。这样，您就可以日后将这些媒体文件用在文章或页面中；与此同时，您也得到了一个可用于分享的网络链接。您有如下三种上传文件方式可供选择："
 
-#: wp-admin/edit-tags.php:296
+#: wp-admin/edit-tags.php:299
 msgid "Adding Tags"
 msgstr "标签的添加"
 
-#: wp-admin/edit-tags.php:296
+#: wp-admin/edit-tags.php:299
 msgid "Adding Categories"
 msgstr "添加分类"
 
@@ -11425,11 +11425,11 @@ msgstr "点击<strong>选择文件</strong>后将弹出您操作系统的文件�
 msgid "<strong>Drag and drop</strong> your files into the area below. Multiple files are allowed."
 msgstr "将文件<strong>拖放</strong>到下方的区域。您可以同时拖放多个文件。"
 
-#: wp-admin/edit-tags.php:256
+#: wp-admin/edit-tags.php:259
 msgid "You can assign keywords to your posts using <strong>tags</strong>. Unlike categories, tags have no hierarchy, meaning there is no relationship from one tag to another."
 msgstr "您可为文章指定一些关键词，这些关键词叫做<strong>标签</strong>。与分类不同的是，标签没有层级关系，换句话说就是标签之间没有关联。"
 
-#: wp-admin/edit-tags.php:254
+#: wp-admin/edit-tags.php:257
 msgid "You can create groups of links by using Link Categories. Link Category names must be unique and Link Categories are separate from the categories you use for posts."
 msgstr "您可以使用「链接分类」创建一组链接。链接分类的名字必须是唯一的，且链接分类和文章分类相对独立。"
 
@@ -11531,15 +11531,15 @@ msgid "Because this is a multisite installation, you may add accounts that alrea
 msgstr "由于当前多站点功能已经开启，您可以直接通过输入用户名或邮箱地址的方式将站点网络中的现有用户添加到站点中，然后为其指定用户角色。如需修改密码等其他信息，您需要拥有网络管理员的权限，访问「管理网络」>「所有用户」，然后将鼠标放置在用户名上方，点击出现的「编辑」链接。"
 
 #. translators: %s: Version number.
-#: wp-admin/about.php:93
+#: wp-admin/about.php:118
 msgid "Welcome to WordPress %s"
 msgstr "欢迎使用 WordPress %s"
 
-#: wp-admin/about.php:312
+#: wp-admin/about.php:337
 msgid "Go to Dashboard &rarr; Home"
 msgstr "转到「仪表盘」 &rarr; 「首页」页面"
 
-#: wp-admin/about.php:305
+#: wp-admin/about.php:330
 msgid "Go to Dashboard &rarr; Updates"
 msgstr "转到「仪表盘」 &rarr; 「更新」页面"
 
@@ -11668,7 +11668,7 @@ msgstr "左侧的导航菜单提供了所有 WordPress 管理页面的链接。�
 
 #: wp-admin/comment.php:63 wp-admin/edit-comments.php:208
 #: wp-admin/edit-form-advanced.php:344 wp-admin/edit-link-form.php:66
-#: wp-admin/edit-tags.php:268 wp-admin/edit.php:252 wp-admin/edit.php:309
+#: wp-admin/edit-tags.php:271 wp-admin/edit.php:252 wp-admin/edit.php:309
 #: wp-admin/erase-personal-data.php:23 wp-admin/export-personal-data.php:23
 #: wp-admin/export.php:51 wp-admin/import.php:24
 #: wp-admin/includes/class-custom-background.php:99
@@ -11815,7 +11815,7 @@ msgstr "设置已保存。"
 #: wp-admin/comment.php:71 wp-admin/edit-comments.php:228
 #: wp-admin/edit-form-advanced.php:318 wp-admin/edit-form-advanced.php:335
 #: wp-admin/edit-form-advanced.php:354 wp-admin/edit-link-form.php:75
-#: wp-admin/edit-tags.php:302 wp-admin/edit.php:300 wp-admin/edit.php:325
+#: wp-admin/edit-tags.php:305 wp-admin/edit.php:300 wp-admin/edit.php:325
 #: wp-admin/erase-personal-data.php:64 wp-admin/export-personal-data.php:64
 #: wp-admin/export.php:58 wp-admin/import.php:31
 #: wp-admin/includes/class-custom-background.php:109
@@ -11939,7 +11939,7 @@ msgstr "看起来您正在使用不安全的 %s。使用过时的浏览器会使
 msgid "There are some invalid menu items. Please check or delete them."
 msgstr "发现无效的菜单项。请进行检查，或删除它们。"
 
-#: wp-admin/edit-tag-form.php:150 wp-admin/edit-tags.php:461
+#: wp-admin/edit-tag-form.php:150 wp-admin/edit-tags.php:464
 #: wp-admin/includes/class-wp-terms-list-table.php:192
 #: wp-admin/includes/class-wp-terms-list-table.php:219
 #: wp-admin/includes/class-wp-terms-list-table.php:696
@@ -12564,7 +12564,7 @@ msgstr "若您删除一个链接，它将被永久移除。目前，链接不具
 msgid "You can add links here to be displayed on your site, usually using <a href=\"%s\">Widgets</a>. By default, links to several sites in the WordPress community are included as examples."
 msgstr "您可以在这里添加在您站点中显示的链接（通常在<a href=\"%s\">小工具</a>中显示）。我们预置了几个链接至 WordPress 社区的链接作为例子。"
 
-#: wp-admin/edit-tags.php:283
+#: wp-admin/edit-tags.php:286
 msgid "<strong>Slug</strong> &mdash; The &#8220;slug&#8221; is the URL-friendly version of the name. It is usually all lowercase and contains only letters, numbers, and hyphens."
 msgstr "<strong>别名</strong>——「别名」是在 URL 中使用的代号，它可以令 URL 更美观。别名通常使用小写字母，只能包含字母、数字和连字符。"
 
@@ -12666,7 +12666,7 @@ msgid "You can add or edit links on this screen by entering information in each 
 msgstr "您可以在相关模块中添加或编辑链接。只有链接的地址和名称是必填项。"
 
 #. translators: %s: URL to Categories to Tags Converter tool.
-#: wp-admin/edit-tags.php:640
+#: wp-admin/edit-tags.php:643
 msgid "Categories can be selectively converted to tags using the <a href=\"%s\">category to tag converter</a>."
 msgstr "分类可以选择性的转换成标签，请使用<a href=\"%s\">分类与标签转换器</a>。"
 
@@ -12734,32 +12734,32 @@ msgstr "<strong>父级</strong>——您可以以层级的方式组织您的页�
 msgid "All updates have been completed."
 msgstr "更新任务全部完成。"
 
-#: wp-admin/edit-tags.php:291
+#: wp-admin/edit-tags.php:294
 msgid "You can change the display of this screen using the Screen Options tab to set how many items are displayed per screen and to display/hide columns in the table."
 msgstr "在「显示选项」中，您可以调整每页显示的标签数量、隐藏或显示表格中的一些栏目。"
 
-#: wp-admin/edit-tags.php:289
+#: wp-admin/edit-tags.php:292
 msgid "<strong>Description</strong> &mdash; The description is not prominent by default; however, some themes may display it."
 msgstr "<strong>描述</strong>——「描述」中的内容默认不会显示，但部分主题中可能会显示。"
 
-#: wp-admin/edit-tags.php:281
+#: wp-admin/edit-tags.php:284
 msgid "<strong>Name</strong> &mdash; The name is how it appears on your site."
 msgstr "<strong>名称</strong>——此项目在站点上的显示名称。"
 
-#: wp-admin/edit-tags.php:277
+#: wp-admin/edit-tags.php:280
 msgid "When adding a new tag on this screen, you&#8217;ll fill in the following fields:"
 msgstr "在此页面新增标签时，您将填写以下字段："
 
-#: wp-admin/edit-tags.php:275
+#: wp-admin/edit-tags.php:278
 msgid "When adding a new category on this screen, you&#8217;ll fill in the following fields:"
 msgstr "在此页面新增分类时，您将填写以下字段："
 
-#: wp-admin/edit-tags.php:262
+#: wp-admin/edit-tags.php:265
 msgid "What&#8217;s the difference between categories and tags? Normally, tags are ad-hoc keywords that identify important information in your post (names, subjects, etc) that may or may not recur in other posts, while categories are pre-determined sections. If you think of your site like a book, the categories are like the Table of Contents and the tags are like the terms in the index."
 msgstr "分类和标签的区别是什么呢？通常来说，标签是临时安排的一些关键词，用来标记文章中的关键信息（名字、题目等），而其他文章或许也会拥有这个标签；分类则是预先确定的内容分区。若将您的站点比做一本书，那么分类就是书的目录，标签则是目录中索引的术语。"
 
 #. translators: %s: URL to Writing Settings screen.
-#: wp-admin/edit-tags.php:250
+#: wp-admin/edit-tags.php:253
 msgid "You can use categories to define sections of your site and group related posts. The default category is &#8220;Uncategorized&#8221; until you change it in your <a href=\"%s\">writing settings</a>."
 msgstr "您可以使用分类来定义您站点的分区结构，并可以按不同的主题组织相关的文章。文章的默认分类为「未分类」，您可在<a href=\"%s\">撰写设置</a>中修改它。"
 
@@ -13269,7 +13269,7 @@ msgstr "WordPress 更新"
 msgid "Edit menu item"
 msgstr "编辑菜单项"
 
-#: wp-admin/about.php:312
+#: wp-admin/about.php:337
 msgid "Go to Dashboard"
 msgstr "转到「仪表盘」页面"
 
@@ -15878,7 +15878,7 @@ msgstr "项目已更新。"
 msgid "Item deleted."
 msgstr "项目已删除。"
 
-#: wp-admin/edit-tag-form.php:198 wp-admin/edit-tags.php:512
+#: wp-admin/edit-tag-form.php:198 wp-admin/edit-tags.php:515
 msgid "Categories, unlike tags, can have a hierarchy. You might have a Jazz category, and under that have children categories for Bebop and Big Band. Totally optional."
 msgstr "分类和标签不同，它可以有层级关系。您可以有一个名为「音乐」的分类，在该分类下可以有名为「流行」和「古典」的子分类（完全可选）。"
 
