@@ -12,14 +12,445 @@
 	<atom:link href="https://twitteraccount.github.io/category/wiki/feed/" rel="self" type="application/rss+xml" />
 	<link>https://twitteraccount.github.io/category/wiki/</link>
 	<description></description>
-	<lastBuildDate>Tue, 01 Apr 2025 11:44:25 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Apr 2025 11:17:47 +0000</lastBuildDate>
 	<language>zh-Hans</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<generator>https://wordpress.org/?v=6.8</generator>
 	<item>
+		<title>Twitter 影子禁令：如何检查和避免</title>
+		<link>https://twitteraccount.github.io/shadowbans-on-twitter/</link>
+					<comments>https://twitteraccount.github.io/shadowbans-on-twitter/#respond</comments>
+		
+		<dc:creator><![CDATA[推特购买平台]]></dc:creator>
+		<pubDate>Fri, 18 Apr 2025 11:17:32 +0000</pubDate>
+				<category><![CDATA[推特wiki]]></category>
+		<guid isPermaLink="false">https://twitteraccount.github.io/?p=426</guid>
+
+					<description><![CDATA[<p>想象一下，你的 Twitter 帖子不再获得应有的点赞和评论，你的粉丝也看不到你本应爆红的推文。原因可能是你的 ... <a title="Twitter 影子禁令：如何检查和避免" class="read-more" href="https://twitteraccount.github.io/shadowbans-on-twitter/" aria-label="Read more about Twitter 影子禁令：如何检查和避免">阅读更多</a></p>
+<p><a rel="nofollow" href="https://twitteraccount.github.io/shadowbans-on-twitter/">Twitter 影子禁令：如何检查和避免</a>最先出现在<a rel="nofollow" href="https://twitteraccount.github.io/">推特账号购买平台</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="rec833033401" class="r t-rec t-rec_pt_15 t-rec_pb_45" data-record-type="106" data-bg-color="#f6f7fa" data-animationappear="off">
+<div class="t004">
+<div class="t-container ">
+<div class="t-col t-col_8 t-prefix_2">
+<div class="t-text t-text_md ">想象一下，你的 Twitter 帖子不再获得应有的点赞和评论，你的粉丝也看不到你本应爆红的推文。原因可能是你的账号被影子封禁了。在本文中，我们将探讨 Twitter 的隐藏审核措施，并解释如何避免影子封禁。</div>
+<div></div>
+</div>
+</div>
+</div>
+</div>
+<div id="rec833033404" class="r t-rec t-rec_pt_0 t-rec_pb_15" data-record-type="60" data-bg-color="#f6f7fa" data-animationappear="off">
+<div class="t050">
+<div class="t-container t-align_left">
+<div class="t-col t-col_8 t-prefix_2">
+<div data-customstyle="yes">
+<h2>什么是 Twitter Shadowban</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="rec833033405" class="r t-rec t-rec_pt_0 t-rec_pb_0" data-record-type="106" data-bg-color="#f6f7fa" data-animationappear="off">
+<div class="t004">
+<div class="t-container ">
+<div class="t-col t-col_8 t-prefix_2">
+<div class="t-text t-text_md ">
+<p>影子禁令是 Twitter 上的一种隐藏帐户状态，可阻止用户查看您的内容。虽然您仍然可以发推文、与他人的帖子互动并在平台上活跃，但您的活动对其他人的可见性会大大降低。</p>
+<p>“影子禁令”一词通常指 Twitter 上的四种隐藏审核类型：</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="rec833033406" class="r t-rec t-rec_pt_0 t-rec_pb_0" data-record-type="106" data-bg-color="#f6f7fa" data-animationappear="off">
+<div class="t004">
+<div class="t-container ">
+<div class="t-col t-col_8 t-prefix_2">
+<ul>
+<li data-list="bullet">搜索建议禁令。您的帐户将不会出现在其他用户的搜索建议中。</li>
+<li data-list="bullet">搜索禁令。您的推文将从 Twitter 搜索结果中完全隐藏。</li>
+<li data-list="bullet">幽灵禁令。对其他用户的推文的回复是不可见的。</li>
+<li data-list="bullet">回复降级。只有用户点击“显示更多回复”后，才能看到你对其他人推文的回复。</li>
+</ul>
+<h2 class="t-text t-text_md ">影子禁令会在没有任何通知的情况下生效，导致 Twitter 活跃度突然下降，令人措手不及。下文我们将解释如何检测和预防影子禁令。</h2>
+<h2 class="t-text t-text_md "><span style="font-family: inherit; font-style: inherit;">Twitter 为何实施 Shadowbans</span></h2>
+</div>
+</div>
+</div>
+</div>
+<div id="rec833033408" class="r t-rec t-rec_pt_0 t-rec_pb_15" data-record-type="106" data-bg-color="#f6f7fa" data-animationappear="off">
+<div class="t004">
+<div class="t-container ">
+<div class="t-col t-col_8 t-prefix_2">
+<div class="t-text t-text_md ">尽管 Twitter 官方避免使用“影子禁令”一词，且未明确确认以下因素，但用户体验表明了一些导致影子禁令的常见原因。了解这些因素有助于您避免此类情况：</div>
+</div>
+</div>
+</div>
+</div>
+<div id="rec833033409" class="r t-rec t-rec_pt_0 t-rec_pb_45" data-record-type="106" data-bg-color="#f6f7fa" data-animationappear="off">
+<div class="t004">
+<div class="t-container ">
+<div class="t-col t-col_8 t-prefix_2">
+<div class="t-text t-text_md ">
+<ul>
+<li data-list="bullet">违反社区准则。Twitter 上发布宣扬暴力、仇恨或侵略的内容可能会受到限制。</li>
+<li data-list="bullet">自动化操作。来自机器人或脚本的大量点赞、转发和关注可能会引起算法的怀疑。</li>
+<li data-list="bullet">参与争议话题。在 Twitter 上讨论政治、错误信息或引起争议的话题通常会引起版主的注意。</li>
+<li data-list="bullet">垃圾内容或不相关的内容。重复或不相关的帖子会降低你的影响力。</li>
+<li data-list="bullet">大量举报。其他 Twitter 用户频繁举报您的帐户或帖子，即使毫无根据，也可能触发自动影子禁令。通常情况下，自动应用审核限制比手动审核每个案例更容易。</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="rec833033410" class="r t-rec t-rec_pt_0 t-rec_pb_15" data-record-type="60" data-bg-color="#f6f7fa" data-animationappear="off">
+<div class="t050">
+<div class="t-container t-align_left">
+<div class="t-col t-col_8 t-prefix_2">
+<div data-customstyle="yes">
+<p>如何检查您是否在 Twitter 上被影子禁止</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="rec833033411" class="r t-rec t-rec_pt_0 t-rec_pb_15" data-record-type="106" data-bg-color="#f6f7fa" data-animationappear="off">
+<div class="t004">
+<div class="t-container ">
+<div class="t-col t-col_8 t-prefix_2">
+<div class="t-text t-text_md ">与账户暂停不同，Twitter 影子禁令不会发出通知，因此一开始很难察觉。以下是一些可以查明你的 Twitter 账户是否被影子禁令的方法：</div>
+</div>
+</div>
+</div>
+</div>
+<div id="rec833033412" class="r t-rec t-rec_pt_0 t-rec_pb_45" data-record-type="106" data-bg-color="#f6f7fa" data-animationappear="off">
+<div class="t004">
+<div class="t-container ">
+<div class="t-col t-col_8 t-prefix_2">
+<div class="t-text t-text_md ">
+<ul>
+<li data-list="bullet">搜索你自己的推文。退出 Twitter 或打开隐身浏览器窗口。使用关键词或主题标签搜索你自己的推文，看看它们是否出现在搜索结果中。</li>
+<li data-list="bullet">检查参与度。比较近期和旧推文的点赞、转发和回复数量。参与度明显下降可能表明存在影子禁令。</li>
+<li data-list="bullet">使用第三方工具。Circleboom、Shadow Bird 或 Chrome 扩展程序 Shadowban Scanner 等服务可以帮助检测影子禁令。这些工具可以检查你的 Twitter 个人资料是否出现在搜索结果中，或者是否对其他人隐藏。</li>
+<li data-list="bullet">询问你的 Twitter 粉丝。让粉丝查看你的个人资料，看看你的推文是否出现在他们的动态中。如果没有，你的账号很可能被影子封禁了。</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="rec833033413" class="r t-rec t-rec_pt_0 t-rec_pb_0" data-record-type="3" data-bg-color="#f6f7fa" data-animationappear="off">
+<div class="t107">
+<div class="t-align_center"></div>
+</div>
+</div>
+<div id="rec833033414" class="r t-rec t-rec_pt_0 t-rec_pb_15" data-record-type="60" data-bg-color="#f6f7fa" data-animationappear="off">
+<div class="t050">
+<div class="t-container t-align_left">
+<div class="t-col t-col_8 t-prefix_2">
+<div data-customstyle="yes">
+<h2>Twitter 影子禁令持续多长时间</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="rec833033415" class="r t-rec t-rec_pt_0 t-rec_pb_45" data-record-type="106" data-bg-color="#f6f7fa" data-animationappear="off">
+<div class="t004">
+<div class="t-container ">
+<div class="t-col t-col_8 t-prefix_2">
+<div class="t-text t-text_md ">
+<p>Twitter 影子禁令的持续时间从几小时到几个月不等。每次违规都会延长其持续时间。</p>
+<p>虽然 Twitter 没有官方的影子禁令时间表，但其目标是鼓励 Twitter 用户改变其行为。遵守平台规则并避免垃圾信息最终将解除影子禁令。但是，反复违规可能会导致永久限制，甚至帐户被暂停。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="rec833033416" class="r t-rec t-rec_pt_0 t-rec_pb_15" data-record-type="60" data-bg-color="#f6f7fa" data-animationappear="off">
+<div class="t050">
+<div class="t-container t-align_left">
+<div class="t-col t-col_8 t-prefix_2">
+<div data-customstyle="yes">
+<p>如何避免 Twitter 影子禁令</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="rec833033417" class="r t-rec t-rec_pt_0 t-rec_pb_15" data-record-type="106" data-bg-color="#f6f7fa" data-animationappear="off">
+<div class="t004">
+<div class="t-container ">
+<div class="t-col t-col_8 t-prefix_2">
+<div class="t-text t-text_md ">以下是一些可以最大限度降低在 Twitter 上被影子禁止的风险的步骤：</div>
+</div>
+</div>
+</div>
+</div>
+<div id="rec833033418" class="r t-rec t-rec_pt_0 t-rec_pb_15" data-record-type="106" data-bg-color="#f6f7fa" data-animationappear="off">
+<div class="t004">
+<div class="t-container ">
+<div class="t-col t-col_8 t-prefix_2">
+<div class="t-text t-text_md ">
+<ul>
+<li data-list="bullet">遵守 Twitter 社区准则。避免冒犯性行为、仇恨言论或垃圾信息。</li>
+<li data-list="bullet">保持账户活跃度。不要使用那些人为提升参与度的自动化工具。积极参与讨论，回复粉丝，避免点赞或关注等群体性行为。</li>
+<li data-list="bullet">避开争议话题。虽然每个人都有权发表意见，但持续发布引起争议的话题可能会引发预防性推特禁令。</li>
+<li data-list="bullet">发布高质量内容。确保您的推文引人入胜，并为受众提供有价值的新信息。避免发布垃圾信息、标题党或毫无意义的帖子。</li>
+<li data-list="bullet">不要过度使用标签。在 Twitter 帖子中过度使用标签会让你的账号看起来像机器人账号。标签数量不要超过 2 到 3 个，并且仅在严格相关的情况下使用。</li>
+<li data-list="bullet">监控您的帐户。留意参与度或搜索曝光度的下降。如果您怀疑存在影子禁令，请迅速分析潜在原因并予以解决。</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="rec833033419" class="r t-rec t-rec_pt_0 t-rec_pb_15" data-record-type="106" data-bg-color="#f6f7fa" data-animationappear="off">
+<div class="t004">
+<div class="t-container ">
+<div class="t-col t-col_8 t-prefix_2">
+<div class="t-text t-text_md ">
+<p>如果您管理多个 Twitter 帐户，务必采取预防措施，避免平台算法的怀疑，从而导致影子禁令。一个有效的解决方案是使用Octo 浏览器等多帐户浏览器</p>
+<p>。为什么这很重要：</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="rec833033420" class="r t-rec t-rec_pt_0 t-rec_pb_30" data-record-type="106" data-bg-color="#f6f7fa" data-animationappear="off">
+<div class="t004">
+<div class="t-container ">
+<div class="t-col t-col_8 t-prefix_2">
+<div class="t-text t-text_md ">
+<ul>
+<li data-list="bullet">配置文件隔离。每个配置文件都在其独特的环境中运行，从而防止 Cookie、IP 地址和其他数据重叠。这大大降低了 Twitter 帐户被标记为已关联的可能性。</li>
+<li data-list="bullet">数据安全。现代防检测浏览器可确保高水平的隐私，防止数据泄露。</li>
+<li data-list="bullet">代理集成。这些浏览器支持每个配置文件使用代理，模拟来自不同位置的活动并保持匿名。</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="rec833033421" class="r t-rec t-rec_pt_0 t-rec_pb_45" data-record-type="248" data-bg-color="#f6f7fa" data-animationappear="off">
+<div class="t220">
+<div class="t-container ">
+<div class="t-col t-col_8 t-prefix_2">
+<div class="t220__textwrapper">
+<div>
+<div class="t220__text t-text t-text_md "><strong>例如：</strong>如果您出于营销或专业原因需要管理多个 Twitter 帐户，则可以使用防检测浏览器中的代理为每个配置文件设置唯一的 IP 地址，确保 Twitter 无法检测到您的帐户之间的连接。</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="rec833033422" class="r t-rec t-rec_pt_0 t-rec_pb_15" data-record-type="60" data-bg-color="#f6f7fa" data-animationappear="off">
+<div class="t050">
+<div class="t-container t-align_left">
+<div class="t-col t-col_8 t-prefix_2">
+<div data-customstyle="yes">
+<p>如何使用 Octo 浏览器避免 Twitter Shadowban</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="rec833033426" class="r t-rec t-rec_pt_0 t-rec_pb_45" data-record-type="106" data-bg-color="#f6f7fa" data-animationappear="off">
+<div class="t004">
+<div class="t-container ">
+<div class="t-col t-col_8 t-prefix_2">
+<div class="t-text t-text_md ">Twitter 允许管理最多十个内容互不重叠的账户。然而，许多任务需要管理的内容远不止这些。此外，如果您的某个账户被封禁，其他被审核认定与该账户关联的账户也可能受到限制。Octo 浏览器确保安全可靠地管理多个 Twitter 账户，每个账户都显示为具有唯一数字指纹的独立用户。</div>
+</div>
+</div>
+</div>
+</div>
+<div id="rec833081048" class="r t-rec t-rec_pt_0 t-rec_pb_15" data-record-type="60" data-bg-color="#f6f7fa" data-animationappear="off">
+<div class="t050">
+<div class="t-container t-align_left">
+<div class="t-col t-col_8 t-prefix_2">
+<div data-customstyle="yes">
+<p>结论</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="rec833081173" class="r t-rec t-rec_pt_0 t-rec_pb_45" data-record-type="106" data-bg-color="#f6f7fa" data-animationappear="off">
+<div class="t004">
+<div class="t-container ">
+<div class="t-col t-col_8 t-prefix_2">
+<div class="t-text t-text_md ">
+<p>我们希望本文能帮助您了解 Twitter 影子禁令的运作方式。尽管该平台的政策可能不透明，但您仍然可以通过遵守 Twitter 社区准则、避免垃圾邮件以及在讨论中保持克制来降低风险。</p>
+<p>但是，如果您管理多个 Twitter 帐户，使用像 Octo 浏览器这样的可靠工具可以帮助您避免 Twitter 影子禁令。通过隔离个人资料并保持匿名，Octo 可以让您安全有效地提升在 Twitter 上的影响力。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><a rel="nofollow" href="https://twitteraccount.github.io/shadowbans-on-twitter/">Twitter 影子禁令：如何检查和避免</a>最先出现在<a rel="nofollow" href="https://twitteraccount.github.io/">推特账号购买平台</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://twitteraccount.github.io/shadowbans-on-twitter/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Twitter 帐户被暂停时提出申诉</title>
+		<link>https://twitteraccount.github.io/unsuspend-twitter-account/</link>
+					<comments>https://twitteraccount.github.io/unsuspend-twitter-account/#respond</comments>
+		
+		<dc:creator><![CDATA[推特购买平台]]></dc:creator>
+		<pubDate>Fri, 18 Apr 2025 11:13:35 +0000</pubDate>
+				<category><![CDATA[推特wiki]]></category>
+		<guid isPermaLink="false">https://twitteraccount.github.io/?p=423</guid>
+
+					<description><![CDATA[<p>在本教程中了解如何在您的 Twitter 帐户被暂停时提出申诉并恢复它。 Twitter 帐户被暂停的原因有很 ... <a title="Twitter 帐户被暂停时提出申诉" class="read-more" href="https://twitteraccount.github.io/unsuspend-twitter-account/" aria-label="Read more about Twitter 帐户被暂停时提出申诉">阅读更多</a></p>
+<p><a rel="nofollow" href="https://twitteraccount.github.io/unsuspend-twitter-account/">Twitter 帐户被暂停时提出申诉</a>最先出现在<a rel="nofollow" href="https://twitteraccount.github.io/">推特账号购买平台</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p>在本教程中了解如何在您的 Twitter 帐户被暂停时提出申诉并恢复它。</p>
+<p>Twitter 帐户被暂停的原因有很多。如果用户的帐户被盗用或不遵守 Twitter 规则，Twitter 会决定暂停该用户的帐户。</p>
+<p>Twitter 帐户大多被暂停是因为 Twitter 认为您的帐户可能是垃圾邮件或虚假的，或者它检测到辱骂性推文或可能伤害其他用户的行为。</p>
+<p>如果您没有严重违反 Twitter 的规定，您可以向 Twitter 申诉，以取消暂停您的帐户并照常恢复。</p>
+<p>请按照以下步骤操作，我将逐步指导您如何重新暂停您的 Twitter 帐户。</p>
+<p>您在下面的教程中看到的屏幕截图来自客户的 Twitter 帐户（@SocialShire），当时该帐户被暂停并上诉以恢复。</p>
+<p>确保你的 Twitter 帐户显示已被暂停。当你的帐户被暂停时，你的 Twitter 帐户 URL 将被重定向到此帐户暂停页面。</p>
+<h2 id="steps-to-submit-appeal-form-for-suspended-account" class="wp-block-heading active">提交暂停账户申诉表的步骤</h2>
+<p><strong>步骤 1</strong>：第一步是登录你的 Twitter 帐户。有时，恢复被暂停的 Twitter 帐户可能很简单，只需验证你的电子邮件地址或添加你的电话号码即可。</p>
+<p>如果您看到任何要求您提供电话号码或验证电子邮件地址的通知，请按照说明进行操作，您的帐户将很快解除暂停。</p>
+<p><strong>第 2 步</strong>：如果您没有看到任何此类通知，您可能只会看到如下所示的提示，要求您访问“暂停帐户”页面以获取更多信息。</p>
+<p>您可能想访问该页面并了解有关您的帐户被暂停的原因的更多信息。</p>
+<p><strong>步骤 3</strong>：因此，如果您认为 Twitter 暂停您的帐户是错误，请转到<strong>此申诉表</strong>并提交您认为 Twitter 暂停您的帐户的原因说明。</p>
+<p>请确保您已从暂停的帐户登录以访问此表单。如果您从其他有效帐户登录，您将看到一条通知，要求您从暂停的帐户登录。</p>
+<p><strong>步骤 4</strong>：您只需选择桌面即可出现第一个问题，询问您“您在哪里遇到此问题？”</p>
+<p>其次，花点时间解释一下这个问题以及您认为您的帐户可能被暂停的原因。</p>
+<p>请记住，您是在与电话另一端的真人通信——保持礼貌是必要的。</p>
+<p><strong>第 5 步</strong>：您可以在接下来的几天内收到来自 Twitter 支持的电子邮件。</p>
+<p><strong>第 6 步</strong>：如果他们确信原因或可能操作错误，您将很快收到一封电子邮件，告知您帐户已被解除暂停。</p>
+<p><strong>第 7 步：我的帐户</strong>@socialshire只花了几个小时就恢复了正常，以下是我收到的电子邮件。</p>
+<p>如果您收到任何其他电子邮件，请遵循指南并配合他们以取消您的帐户暂停。</p>
+<p>您可以在此页面上找到更多针对其他 Twitter 问题的表格，例如恢复您的帐户、帮助解决锁定的帐户或验证您的帐户。</p>
+<p>希望本教程能帮助您解除 Twitter 帐户的冻结。如果您有任何疑问，请在下方评论区留</p>
+<p><a rel="nofollow" href="https://twitteraccount.github.io/unsuspend-twitter-account/">Twitter 帐户被暂停时提出申诉</a>最先出现在<a rel="nofollow" href="https://twitteraccount.github.io/">推特账号购买平台</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://twitteraccount.github.io/unsuspend-twitter-account/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>如何找到 Twitter 的一次性备份代码</title>
+		<link>https://twitteraccount.github.io/backup_authentication/</link>
+					<comments>https://twitteraccount.github.io/backup_authentication/#respond</comments>
+		
+		<dc:creator><![CDATA[推特购买平台]]></dc:creator>
+		<pubDate>Fri, 18 Apr 2025 11:00:10 +0000</pubDate>
+				<category><![CDATA[推特wiki]]></category>
+		<guid isPermaLink="false">https://twitteraccount.github.io/?p=418</guid>
+
+					<description><![CDATA[<p>我最初在 2020 年 10 月写下了这些关于如何获取一次性备用验证码的说明，当时我看到我的一位 Twitte ... <a title="如何找到 Twitter 的一次性备份代码" class="read-more" href="https://twitteraccount.github.io/backup_authentication/" aria-label="Read more about 如何找到 Twitter 的一次性备份代码">阅读更多</a></p>
+<p><a rel="nofollow" href="https://twitteraccount.github.io/backup_authentication/">如何找到 Twitter 的一次性备份代码</a>最先出现在<a rel="nofollow" href="https://twitteraccount.github.io/">推特账号购买平台</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="et_pb_row et_pb_row_0">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_0 et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_1 et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner">
+<p>我最初在 2020 年 10 月写下了这些关于如何获取一次性备用验证码的说明，当时我看到我的一位 Twitter 好友因为Twitter 出现问题而被锁定，导致用户无法使用发送到他们手机上的验证码重新访问自己的账户。现在，Twitter 决定移除短信验证选项，这将适用于所有未付费 Twitter Blue 的用户。您需要一次性备用验证码，以免账户意外被锁定。</p>
+<p>如果您的常规双重验证失效，可以使用一次性备用验证码重新获取账户访问权限。但您需要在账户访问出现问题<strong>之前，</strong>将其妥善保存。趁现在还来得及，赶紧行动吧！</p>
+<p><strong>一旦您被锁在门外，就太晚了，所以如果您还没有这样做，请立即处理！</strong></p>
+</div>
+</div>
+</div>
+</div>
+<div class="et_pb_with_border et_pb_row et_pb_row_1">
+<div class="et_pb_column et_pb_column_1_2 et_pb_column_1 et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_text et_pb_text_2 et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner">
+<h2>步骤 1</h2>
+<p>在电脑上，从屏幕侧面的<strong>主菜单</strong>中选择<strong>“更多” 。（我把这个选项高亮显示出来，以便更醒目。）</strong></p>
+</div>
+</div>
+</div>
+</div>
+<div class="et_pb_with_border et_pb_row et_pb_row_2">
+<div class="et_pb_column et_pb_column_1_2 et_pb_column_3 et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_text et_pb_text_3 et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner">
+<h2>第 2 步</h2>
+<p><strong>从选择更多</strong>时弹出的菜单中，<br />
+选择 <strong>“设置和支持”</strong><b>选项，然后<br />
+</b>选择 <strong>“设置和隐私”</strong><b>选项。</b></p>
+</div>
+</div>
+</div>
+</div>
+<div class="et_pb_with_border et_pb_row et_pb_row_3 et_pb_row_1-4_3-4">
+<div class="et_pb_column et_pb_column_1_4 et_pb_column_5 et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_text et_pb_text_4 et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner">
+<h2>步骤3</h2>
+<p>单击“<strong>安全和帐户访问</strong>” <em>（已编辑以反映名称更改）</em>以展开它，然后在右侧 选择“<strong>安全”。</strong></p>
+</div>
+</div>
+</div>
+</div>
+<div class="et_pb_with_border et_pb_row et_pb_row_4 et_pb_row_1-4_3-4">
+<div class="et_pb_column et_pb_column_1_4 et_pb_column_7 et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_text et_pb_text_5 et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner">
+<h2>步骤4</h2>
+<p>在弹出的<strong>安全</strong>菜单上，选择<strong>“双重身份验证”。</strong></p>
+</div>
+</div>
+</div>
+</div>
+<div class="et_pb_with_border et_pb_row et_pb_row_5 et_pb_row_1-4_3-4">
+<div class="et_pb_column et_pb_column_1_4 et_pb_column_9 et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_text et_pb_text_6 et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner">
+<h2>步骤5</h2>
+<p>选择“<strong>双重身份验证</strong>”菜单底部附近的“<strong>备份代码</strong>” 。</p>
+<p><strong>注意：</strong>获取您的紧急回复代码后，我们将返回此菜单来设置身份验证应用程序。</p>
+</div>
+</div>
+</div>
+</div>
+<div class="et_pb_with_border et_pb_row et_pb_row_6 et_pb_row_1-4_3-4">
+<div class="et_pb_column et_pb_column_1_4 et_pb_column_11 et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_text et_pb_text_7 et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner">
+<h2>步骤6</h2>
+<p>现在出现的对话框会直接在图片中文本下方显示您的备份代码。请将其记在笔记本或其他安全的地方，以便需要时随时查阅！</p>
+</div>
+</div>
+</div>
+</div>
+<div class="et_pb_row et_pb_row_7">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_13 et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_8 et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner">
+<h2>完成！</h2>
+<p><strong>提醒：</strong> <strong>备用代码只能使用一次。</strong>如果您需要使用它来访问您的账户，请立即按照步骤生成新的代码，并将其记在安全的地方，以便下次使用。</p>
+<p><strong>注意：</strong>现在您已经有了紧急备用代码，请查看我的下一篇文章，了解如何为您的双因素验证设置身份验证应用程序！</p>
+</div>
+</div>
+</div>
+</div>
+<p><a rel="nofollow" href="https://twitteraccount.github.io/backup_authentication/">如何找到 Twitter 的一次性备份代码</a>最先出现在<a rel="nofollow" href="https://twitteraccount.github.io/">推特账号购买平台</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://twitteraccount.github.io/backup_authentication/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>如何在 X (Twitter) 上直播</title>
 		<link>https://twitteraccount.github.io/how-to-go-live-on-x-twitter-a-step-by-step-guide/</link>
 					<comments>https://twitteraccount.github.io/how-to-go-live-on-x-twitter-a-step-by-step-guide/#respond</comments>
@@ -521,9 +952,9 @@
 </div>
 <hr class="MuiDivider-root MuiDivider-fullWidth mui-style-39bbo6" />
 <div class="MuiBox-root mui-style-1ruxp1v">
-<p class="MuiTypography-root MuiTypography-body1 mui-style-17b2su5"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" />几分钟内即可创建你的媒体工具包</p>
-<p class="MuiTypography-root MuiTypography-body1 mui-style-17b2su5"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2705.png" alt="✅" class="wp-smiley" style="height: 1em; max-height: 1em;" />自动更新</p>
-<p class="MuiTypography-root MuiTypography-body1 mui-style-17b2su5"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4ac.png" alt="💬" class="wp-smiley" style="height: 1em; max-height: 1em;" />点击按钮即可分享</p>
+<p class="MuiTypography-root MuiTypography-body1 mui-style-17b2su5"><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" />几分钟内即可创建你的媒体工具包</p>
+<p class="MuiTypography-root MuiTypography-body1 mui-style-17b2su5"><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2705.png" alt="✅" class="wp-smiley" style="height: 1em; max-height: 1em;" />自动更新</p>
+<p class="MuiTypography-root MuiTypography-body1 mui-style-17b2su5"><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f4ac.png" alt="💬" class="wp-smiley" style="height: 1em; max-height: 1em;" />点击按钮即可分享</p>
 </div>
 <hr class="MuiDivider-root MuiDivider-fullWidth mui-style-39bbo6" />
 <div class="MuiBox-root mui-style-1586bog">
@@ -689,7 +1120,7 @@ Twitter（或 X）的参与率较低。0.5% 到 1% 的中位参与率被认为�
 <li>您还可以调整其他过滤器（如语言、内容类型和时间段）来缩小搜索结果。</li>
 </ol>
 <div class="kg-card kg-callout-card kg-callout-card-grey">
-<div class="kg-callout-emoji"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /></div>
+<div class="kg-callout-emoji"><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /></div>
 <div class="kg-callout-text">如果你想根据某些标准筛选附近的推文，可以使用<strong>Twitter 搜索运算符</strong>。或者你也可以直接选择使用 Circleboom，它为你提供了许多<strong>高级搜索过滤器</strong>。</div>
 </div>
 <hr />
@@ -929,370 +1360,6 @@ Twitter（或 X）的参与率较低。0.5% 到 1% 的中位参与率被认为�
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://twitteraccount.github.io/how-to-translate-twitter-videos-in-easy-methods-a-comprehensive-guide/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>您知道 X（Twitter）的流量限制吗？</title>
-		<link>https://twitteraccount.github.io/do-you-know-the-twitter-limits/</link>
-					<comments>https://twitteraccount.github.io/do-you-know-the-twitter-limits/#respond</comments>
-		
-		<dc:creator><![CDATA[推特购买平台]]></dc:creator>
-		<pubDate>Wed, 05 Mar 2025 11:59:45 +0000</pubDate>
-				<category><![CDATA[推特wiki]]></category>
-		<guid isPermaLink="false">https://twitteraccount.github.io/?p=378</guid>
-
-					<description><![CDATA[<p>2023 年 6 月，创始人埃隆·马斯克 (Elon Musk) 将 Twitter 更名为 X。很多事情都在 ... <a title="您知道 X（Twitter）的流量限制吗？" class="read-more" href="https://twitteraccount.github.io/do-you-know-the-twitter-limits/" aria-label="Read more about 您知道 X（Twitter）的流量限制吗？">阅读更多</a></p>
-<p><a rel="nofollow" href="https://twitteraccount.github.io/do-you-know-the-twitter-limits/">您知道 X（Twitter）的流量限制吗？</a>最先出现在<a rel="nofollow" href="https://twitteraccount.github.io/">推特账号购买平台</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<div class="fl-module fl-module-rich-text fl-node-5d4810c3a22fc" data-node="5d4810c3a22fc">
-<div class="fl-module-content fl-node-content">
-<div class="fl-rich-text">
-<p><span>2023 年 6 月，创始人埃隆·马斯克 (Elon Musk) 将 Twitter 更名为 X。很多事情都在发生变化，我正在用 X 的所有新功能更新这篇文章。</span></p>
-</div>
-</div>
-</div>
-<div class="fl-module fl-module-rich-text fl-node-3pecwvonrftx" data-node="3pecwvonrftx">
-<div class="fl-module-content fl-node-content">
-<div class="fl-rich-text">
-<h2><span>X (Twitter) 限制表</span></h2>
-<table class="table table-striped table-bordered table-hover">
-<thead>
-<tr>
-<th><span>类型</span></th>
-<th><span>限制</span></th>
-<th><span>细节</span></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><span>每条推文的最大字符数</span></td>
-<td><strong><span>4,000 (Twitter Blue 订阅者)</span><br />
-<span>280 (免费账户)</span><br />
-</strong></td>
-<td><span>自 2023 年 3 月起，已注册 Twitter Blue 付费订阅的 Twitter 用户可以发送最多 4,000 个字符的推文。免费帐户用户每条推文最多可发送 280 个字符。</span>&nbsp;</p>
-<p><span>Twitter 在 2017 年 11 月将字符数限制从原来的 140 个扩展到了 280 个。而自 2016 年 9 月起，回复中的媒体附件、链接和屏幕名称不再受到字符数限制。</span></td>
-</tr>
-<tr>
-<td><span>每条私信的最大字符数</span></td>
-<td><strong><span>10,000</span></strong></td>
-<td></td>
-</tr>
-<tr>
-<td><span>推文</span></td>
-<td><span>每天<strong>2,400</strong></span></td>
-<td><span>分布在 24 个时间段内。每个半小时时间段也有单独的限制，因此您无法一次性发送全部 2,400 条推文。目前尚不清楚半小时的限制。转发也计入限制。</span></td>
-</tr>
-<tr>
-<td><span>直接消息</span></td>
-<td><b></b><span>每天<b>1,000</b></span></td>
-<td></td>
-</tr>
-<tr>
-<td><span>电子邮件地址变更</span></td>
-<td><span>每小时<strong>4 个</strong></span></td>
-<td></td>
-</tr>
-<tr>
-<td><span>下列的</span></td>
-<td><strong><span>1,819</span></strong></td>
-<td><span> 超过 1,819，您可以关注这个数字 +10%。</span></td>
-</tr>
-<tr>
-<td><span>列表数量</span></td>
-<td><strong><span>1,000</span></strong></td>
-<td><span> 您只能拥有 1,000 个列表（包括您创建的列表和您关注的列表）2013 年 5 月 30 日之前，列表数量上限为 20</span></td>
-</tr>
-<tr>
-<td><span>列表中的人数</span></td>
-<td><strong><span>5,000</span></strong></td>
-<td><span> 2013 年 5 月 30 日之前，每个列表的最大账户数为 500 个</span></td>
-</tr>
-<tr>
-<td><span>您可以关注的人数</span></td>
-<td><strong><span>每天 400 个（或对于已验证账户为 1,000 个）</span></strong></td>
-<td><span>标准 Twitter 帐户每天最多可以关注 400 个帐户。如果您的帐户已验证，您每天最多可以关注 1,000 个帐户。感谢 Solomon（在评论中）在此处的更新。  </span><span>在此处查看更多信息</span><span>。</span></td>
-</tr>
-<tr>
-<td><span>你可以取消关注多少人</span></td>
-<td><strong><span>未知</span></strong></td>
-<td><span>Twitter 没有明文规定，但如果你积极取消关注他人，你很可能会被封号。我建议每天取消关注的次数不要超过 400 次。</span></td>
-</tr>
-<tr>
-<td><span>传记的最大字符数</span></td>
-<td><strong><span>160</span></strong></td>
-<td></td>
-</tr>
-<tr>
-<td><span>视频上传的最大长度</span></td>
-<td><strong><span>2’20”</span></strong><br />
-<small><span>(140秒)</span></small></td>
-<td><span>MP4 视频格式，H264 格式，带 AAC 音频。最大上传容量为 512MB</span></td>
-</tr>
-<tr>
-<td><span>Twitter 流内照片大小</span></td>
-<td><strong><span>1024&#215;512像素</span></strong></td>
-<td><span>最大上传大小为 5Mb（或动态 GIF 为 3Mb）。支持 PNG、GIF 或 JPEG</span></td>
-</tr>
-<tr>
-<td><span>Twitter 个人资料图片大小</span></td>
-<td><strong><span>400&#215;400像素</span></strong></td>
-<td><span>最大上传大小为 2Mb。支持 PNG、GIF 或 JPEG</span></td>
-</tr>
-<tr>
-<td><span>Twitter 标题图片大小</span></td>
-<td><strong><span>1500&#215;500像素</span></strong></td>
-<td><span>最大上传大小为 5Mb。支持 PNG 或 JPEG</span></td>
-</tr>
-<tr>
-<td><span>一个电话号码可以添加的 Twitter 帐户数量</span></td>
-<td><strong><span>10</span></strong></td>
-<td><span>查看手机常见问题解答</span></td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-</div>
-</div>
-</div>
-<div class="fl-module fl-module-rich-text fl-node-r9u7wple4v5q" data-node="r9u7wple4v5q">
-<div class="fl-module-content fl-node-content">
-<div class="fl-rich-text">
-<h2><span>跟随限制</span></h2>
-<p><span>您可能是 Twitter 新手，或者您可能已经使用很长时间，并且达到了著名的“2000”限制。后来 Twitter 将此限制增加到 5,000。</span></p>
-<p><span>大多数社交网络都对您可以“加为好友”或“关注”的人数设有限制。例如，Google+ 目前限制您的圈子中可以拥有 5,000 人，而 Facebook 上的“好友”人数限制为 5,000 人。这是为了防止个人、企业或自动程序滥用系统。</span></p>
-<p><span>在 Twitter 上，以前可以批量关注成千上万的人，希望他们也能关注你。这导致许多 Twitter 帐户滥用此功能，关注数以万计的人，却没有创作引人入胜的内容，也没有多少人关注他们。</span></p>
-<p><span>不好。</span></p>
-<p><span>Twitter 于 2006 年 3 月推出。但直到 2008 年七八月份，Twitter 才开始对您可以关注的人数进行限制。</span></p>
-<p><span>Twitter 当时面临着严重的垃圾邮件问题（</span><span>正如 Twitter 联合创始人 Biz Stone 当时在博客中所说</span><span>）。当时出现了许多强烈反应，也带来了很多混乱（请参阅 ZDNet 上关于</span><span>Twitter 垃圾邮件处理过度的</span><span>文章）。</span></p>
-<p><span>人们普遍认为 Twitter 引入了 2,000 个关注者的限制，这意味着你最多只能关注 2,000 人。然而，这并不完全正确。</span></p>
-<h2><span>以下比率</span></h2>
-<p><span>根据作者 Rob Brown 的说法，这个神奇的数字实际上是 1,819！这意味着如果你有 1,819 个关注者，你就可以突破 2,000 的限制。低于 1,819，你的关注人数上限为 2,000 人。高于 1,819，你可以关注这个数字 +10%（或 182）。1,819+10% 意味着你可以关注 2,001 人，你刚刚突破了 2,000 的限制——万岁！这（正如 Rob Brown 在</span></p>
-<p><span>这意味着如果您有 1,819 名关注者，您就可以突破 2,000 的限制。如果关注者人数低于 1,819，那么您最多只能关注 2,000 人。如果关注者人数高于 1,819，您可以关注此数字 +10%（即 182）。如果关注者人数为 1,819+10%，则意味着您可以关注 2,001 人，这样您就突破了 2,000 的限制 &#8211; 太棒了！这意味着每有 10 个人关注您，您就可以关注 11 个人。</span></p>
-<p><em><span>更新 &#8211; 自 2015 年 10 月 27 日起，Twitter 宣布将关注者人数限制从 2,000 人增加至 5,000 人：</span></em></p>
-<p>&nbsp;</p>
-<p><i><span>我还没有测试过，但我相当肯定，这个新限制将使用相同的系统。要突破这个限制，你需要有超过 4545 人关注你，然后你才能突破 5,000 的限制。让我知道你的想法！</span><br />
-</i></p>
-<p><span>就我个人而言，我认为这是一件好事。当我看到某人关注大量粉丝时，我会有点担心——尤其是如果他们的内容没有吸引力的话。Twitter 是关于参与和网络的——毕竟它是一个</span><em><span>社交</span></em><span> 网络。话虽如此，关注大量粉丝并不总是坏事。我喜欢关注新朋友，尤其是那些在社交媒体上发推文的人。我使用 Twitter 列表管理大量粉丝——将我觉得特别有趣的人放入我的“超赞”列表中。我会不定期地查看我的主要 Twitter 信息流，并可能将一些很酷的人添加到此列表中。</span></p>
-<p><span>关注他人的速度也有限制。Twitter</span><span>规定了每天关注人数不得超过 1000 人的技术限制</span><span>。谢天谢地！但是，由于这是</span><em><span>技术限制</span></em><span>，每天关注该数量的人可能会因 </span><span>违反 Twitter 关注规则和最佳实践</span><span>而被禁止（如果您还没有阅读，请阅读本文）。自 2019 年 3 月起，Twitter 表示，如果您的帐户已通过验证，普通帐户的关注人数不得超过 400 人或 1,000 人。</span></p>
-<h3><span>取消关注限制</span></h3>
-<p><span>那么，你可以取消关注多少人呢？这是一个比较棘手的问题，因为 Twitter 实际上并没有说明。</span></p>
-<p><span>Twitter已要求</span><span>Social Oomph</span><span>和 Manage Flitter等 Twitter 工具删除其取消关注工具，因为这可能违反 Twitter 条款。</span></p>
-<p><span>问题就是 Twitter 所称的“激进的关注者流失”，即快速连续地关注和取消关注他人，以迅速增加关注者的数量。</span></p>
-<p><span>那么，您一次可以取消关注多少人呢？只需运用您的常识即可。我曾经在一天内取消关注了 500 多人，但那只是一次性的——我想清理我的动态，但如果我每天取消关注 500 人，我很可能会被禁止。</span></p>
-<h3><span>其他限制</span></h3>
-<p><span>还有其他限制，如</span><span>Twitter 支持页面所述</span><span>。您每天最多可以发布 2,400 条推文（这是全天的 &#8211; 每半小时有限制，所以您不能一次发布 2,400 条！）您每天最多可以发布 250 条直接消息（谢天谢地！）您每小时最多可以更改您的电子邮件 4 次（您为什么要这样做呢？）</span></p>
-<p><span>您每天最多可以发布 2,400 条推文（这会分散在一天中 &#8211; 每半小时有限制，因此您不能一次发布 2,400 条！）您每天最多可以发布 250 条直接消息（谢天谢地！）您每小时最多可以更改您的电子邮件 4 次（您为什么要这么做呢？）</span></p>
-<p><span>您每天最多可以发布 1,000 条直接消息（谢天谢地！）您每小时最多可以更改 4 次电子邮件（您为什么要这样做呢？）</span></p>
-<p><span>自 2013 年 5 月 30 日起，您现在可以关注最多 1,000 个列表（以前为 20 个），每个列表最多可包含 5,000 个帐户（以前为 500 个）。使用 Twitter API 时也有限制，但那是另一个话题。</span></p>
-<p><span>使用 Twitter API 时也存在限制，但那是另一个话题。</span></p>
-<p><span>Twitter 最近添加了添加标题图像的选项。这些图像的最大分辨率为 1500&#215;500 像素（最大上传大小为 10Mb）。您不必将图像上传到 1500&#215;500，但最好将其设置为接近该分辨率，以获得清晰的图像。当然，请尝试使其宽度超过 640 像素，否则看起来会很像素化。最后，您的个人简介最多可以有 160 个字符。</span></p>
-<h3><span>概括</span></h3>
-<p><span>所以，就是这样。请记住，Twitter 是一个社交网络 &#8211; 这些限制是为了保护你和我。你认为这些限制合适吗，或者你认为它们应该修改吗？请在下面的评论中告诉我。</span></p>
-</div>
-</div>
-</div>
-<p><a rel="nofollow" href="https://twitteraccount.github.io/do-you-know-the-twitter-limits/">您知道 X（Twitter）的流量限制吗？</a>最先出现在<a rel="nofollow" href="https://twitteraccount.github.io/">推特账号购买平台</a>。</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://twitteraccount.github.io/do-you-know-the-twitter-limits/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>如何在 Twitter 上使用代码生成器 2FA（分步说明）</title>
-		<link>https://twitteraccount.github.io/steps-to-set-up-app-based-2fa-on-twitter/</link>
-					<comments>https://twitteraccount.github.io/steps-to-set-up-app-based-2fa-on-twitter/#respond</comments>
-		
-		<dc:creator><![CDATA[推特购买平台]]></dc:creator>
-		<pubDate>Wed, 05 Mar 2025 11:56:18 +0000</pubDate>
-				<category><![CDATA[推特wiki]]></category>
-		<guid isPermaLink="false">https://twitteraccount.github.io/?p=376</guid>
-
-					<description><![CDATA[<p>本文介绍了 Twitter（现为 X）的双因素身份验证 (2FA) 代码生成器应用程序、如何启用 2FA 及其 ... <a title="如何在 Twitter 上使用代码生成器 2FA（分步说明）" class="read-more" href="https://twitteraccount.github.io/steps-to-set-up-app-based-2fa-on-twitter/" aria-label="Read more about 如何在 Twitter 上使用代码生成器 2FA（分步说明）">阅读更多</a></p>
-<p><a rel="nofollow" href="https://twitteraccount.github.io/steps-to-set-up-app-based-2fa-on-twitter/">如何在 Twitter 上使用代码生成器 2FA（分步说明）</a>最先出现在<a rel="nofollow" href="https://twitteraccount.github.io/">推特账号购买平台</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><span>本文介绍了 Twitter（现为 X）的双因素身份验证 (2FA) 代码生成器应用程序、如何启用 2FA 及其重要性。</span></p>
-<p><span>2FA 为您的 X 帐户增加了额外的安全层。当您在 Twitter（现为 X）帐户上启用 2FA 时，登录将需要额外的身份验证，而仅凭密码无法完成此操作。</span></p>
-<p><span>Twitter 允许使用短信（仅限高级订阅者）、身份验证器应用程序或 Yubikey 等物理设备进行 2FA。  </span></p>
-<p><span>实现这种额外安全性的最方便且最具成本效益的方法是使用 Twitter 的代码生成器应用程序。因此，让我告诉你如何在 Twitter 上启用双因素身份验证以及一些可帮助你实现此目的的应用程序。</span></p>
-<h2 id="h-about-twitter-2fa" class="wp-block-heading"><span id="about-twitter-2fa"><span>关于 Twitter 2FA</span></span></h2>
-<p><span>双重身份验证 (2FA) 确保只有帐户的合法所有者才能访问它。</span></p>
-<p><span>它要求额外的 Twitter 身份验证步骤，这意味着需要输入两条信息才能登录：</span></p>
-<ul class="wp-block-list">
-<li><span>密码 </span></li>
-<li><span>TOTP（基于时间的一次性密码）</span></li>
-</ul>
-<p><span>这样一来，恶意行为者就不太可能未经授权访问您的 X 帐户。</span></p>
-<h2 id="h-how-is-app-based-2fa-different-from-text-based-2fa" class="wp-block-heading"><span id="how-is-app-based-2fa-different-from-text-based-2fa"><span>基于应用程序的 2FA 与基于文本的 2FA 有何不同？</span></span></h2>
-<p><span>以下是基于应用程序的 2FA 和基于文本的 2FA 之间的 3 个主要区别。</span></p>
-<figure class="wp-block-table">
-<table class="has-fixed-layout">
-<thead>
-<tr>
-<th><span>基于应用程序的 2FA</span></th>
-<th><span>基于文本的 2FA</span></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><span>在应用程序内本地生成代码，不依赖于网络可用性。</span></td>
-<td><span>通过蜂窝网络发送；因此需要连接。</span></td>
-</tr>
-<tr>
-<td><span>只有通过物理访问设备才能获得身份验证码。</span></td>
-<td><span>通过蜂窝网络进行未加密传输，容易受到拦截和中间人攻击。</span></td>
-</tr>
-<tr>
-<td><span>更安全，因为它们不会被传输并且仅在几秒钟内有效。</span></td>
-<td><span>安全性较低，因为它们可能通过 SIM 卡交换遭到黑客攻击。</span></td>
-</tr>
-</tbody>
-</table>
-</figure>
-<p><b><span>注意：</span></b><span>即使通过短信进行双重身份验证，也比没有双重身份验证要好。</span></p>
-<h2 id="h-benefits-of-using-a-code-generator-app-for-x-formerly-known-as-twitter" class="wp-block-heading"><span id="benefits-of-using-a-code-generator-app-for-x-formerly-known-as-twitter"><span>使用 X 代码生成器应用程序的好处（以前称为 Twitter）</span></span></h2>
-<p><span>有以下几个理由要求我们在任何地方都部署双因素身份验证，Twitter 也不例外：</span></p>
-<ul class="wp-block-list">
-<li><span>只有高级 Twitter 用户才允许使用基于 SMS 的 2FA，并且拥有像 YubiKey 这样的物理设备也需要额外的费用，而代码生成器应用程序是免费的。</span></li>
-<li><span>2FA 可以在设备被盗等紧急情况下发挥作用，防止未经授权的访问。这对于严重依赖社交媒体账户保护品牌形象的公司或影响者来说至关重要。</span></li>
-<li><span>双因素身份验证系统是开始超越密码的好方法。如果有人仍在使用弱密码，那么双因素身份验证系统就成为不可避免的必需品。</span></li>
-</ul>
-<h2 id="h-how-to-enable-2fa-on-x-twitter" class="wp-block-heading"><span id="how-to-enable-2fa-on-x-twitter"><span>如何在 X (Twitter) 上启用 2FA</span></span></h2>
-<p><span>使用 X 的双重身份验证非常简单。您可以在 Mac、Windows、Android 或 iOS 上进行此操作。以下是在任何 Web 浏览器上进行设置的分步指南：</span></p>
-<ul class="wp-block-list">
-<li><span>登录您的 X 个人资料，然后单击左侧边栏中的“</span><strong><span>更多”。</span></strong></li>
-<li><span>选择“</span><strong><span>设置和隐私</span></strong><span>”。</span></li>
-<li><span>点击“</span><strong><span>安全和账户访问</span></strong><span>”后，会出现更多选项。在展开的菜单中点击“</span><strong><span>安全”。</span></strong></li>
-<li><span>点击“</span><strong><span>双重身份验证</span></strong><span>”。</span></li>
-<li><span>从 2FA 验证选项中选择“</span><strong><span>身份验证应用程序”。</span></strong></li>
-<li><span>如果您选择“</span><strong><span>身份验证应用程序</span></strong><span>”，Twitter 将要求您输入密码。输入密码后，请在以下屏幕上单击“</span><strong><span>确认</span></strong><span>”和“</span><strong><span>开始”。</span></strong></li>
-<li><span>随后，Twitter 会向您提供一个 </span><a href="https://geekflare.com/dev/qr-code-apis/" target="_blank" rel="noopener" data-wpel-link="internal"><span>二维码</span></a><span> ，您可以使用任何 2FA 应用程序进行扫描。</span></li>
-<li><span>最后，通过输入最近生成的 OTP，将您的 Twitter 帐户链接到您选择的身份验证器应用程序。为了安全起见，请单击</span><strong><span>获取备份代码</span></strong><span>并将其保存在安全的地方，以便在没有 2FA 设备的情况下登录。</span></li>
-</ul>
-<p><span>在接下来的部分中，我将重点介绍一些可以处理此 Twitter 2FA 身份验证的应用程序。</span></p>
-<h2 id="h-best-2fa-code-generator-apps-for-x-formerly-known-as-twitter" class="wp-block-heading"><span id="best-2fa-code-generator-apps-for-x-formerly-known-as-twitter"><span>适用于 X（以前称为 Twitter）的最佳 2FA 代码生成器应用程序</span></span></h2>
-<h3 id="h-1-nbsp-2fa-authenticator-2fas" class="wp-block-heading"><mark><span>#1. </span></mark><span>2FA 身份验证器 (2FAS)</span></h3>
-<p><a href="https://2fas.com/" target="_blank" rel="noopener nofollow" data-wpel-link="external"><span>2FAS</span></a><span> 是一款出色的 Twitter 开源代码生成器应用，显然也适用于其他应用。您可以扫描二维码或手动输入您的令牌信息。</span></p>
-<p><span>完成后，您每次输入密码时都会检索一个令牌。</span></p>
-<p><span>这款应用的用户界面简洁干净。它支持大多数需要双因素身份验证的网站的 TOTP 和 HOTP 协议。这款应用跨平台，有 iOS 和 Android 应用以及浏览器扩展程序。</span></p>
-<p><strong><span>下载</span></strong><span>：  </span><a href="https://play.google.com/store/apps/details?id=com.twofasapp" target="_blank" rel="noopener nofollow" data-wpel-link="external"><span>Android</span></a><span>  |  </span><a href="https://apps.apple.com/app/2fas-auth/id1217793794?platform=iphone" target="_blank" rel="noopener nofollow" data-wpel-link="external"><span>iOS</span></a></p>
-<h3 class="wp-block-heading"><mark><span>#2. </span></mark><span>Google 身份验证器</span></h3>
-<p><a href="https://safety.google/authentication/" target="_blank" rel="noopener nofollow" data-wpel-link="external"><span>Google Authenticator</span></a><span> 是 Google 推出的一款 2FA 应用程序，可以帮助您保护在线帐户（包括 Twitter）的安全。</span></p>
-<p><span>Google Authenticator 是一款非常用户友好的应用程序，几乎每个接受基于 TOTP 的应用程序的网站都会支持它。 </span></p>
-<p><span>Google 确认不会与第三方共享数据，并且始终使用安全连接。总体而言，它易于使用、可靠，并且支持几乎所有门户网站。</span></p>
-<p><strong><span>下载</span></strong><span>：  </span><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2" target="_blank" rel="noopener nofollow" data-wpel-link="external"><span>Android</span></a><span>  |  </span><a href="https://apps.apple.com/app/google-authenticator/id388497605?platform=iphone" target="_blank" rel="noopener nofollow" data-wpel-link="external"><span>iOS</span></a></p>
-<h3 class="wp-block-heading"><mark><span>#3. </span></mark><span>Microsoft Authenticator</span></h3>
-<p><a href="https://www.microsoft.com/en-in/security/mobile-authenticator-app?rtc=1" target="_blank" rel="noopener nofollow" data-wpel-link="external"><span>Microsoft Authenticator</span></a><span> 为 Twitter 提供安全可靠的 2FA 代码生成。</span></p>
-<p><span>这是一款简单的应用程序，它为每项接受 TOTP 的服务生成唯一代码，无需网络连接。然而，这背后还有更多秘密。</span></p>
-<p><span>您可以使用该应用程序无需密码即可登录 Microsoft 应用程序，包括 OneDrive 和 Office 365。根据设备支持，该应用程序允许用户使用指纹、面部或任何其他形式的身份验证来验证其身份。Microsoft Authenticator 还通过 Android 和 iOS 上的 Microsoft 服务器提供云备份。</span></p>
-<p><span>Microsoft 帐户支持意味着您无需输入代码来批准登录，并且可以通过推送通知无缝登录。</span></p>
-<p><strong><span>下载</span></strong><span>：  </span><a href="https://play.google.com/store/apps/details?id=com.azure.authenticator" target="_blank" rel="noopener nofollow" data-wpel-link="external"><span>Android</span></a><span>  |  </span><a href="https://apps.apple.com/app/microsoft-authenticator/id983156458?platform=iphone" target="_blank" rel="noopener nofollow" data-wpel-link="external"><span>iOS</span></a></p>
-<h3 class="wp-block-heading"><mark><span>#4. </span></mark><span>Twilio Authy 身份验证器</span></h3>
-<p><a href="https://authy.com/" target="_blank" rel="noopener nofollow" data-wpel-link="external"><span>Twilio Authy</span></a><span>应用  是最受欢迎的双因素身份验证应用之一。它是跨平台的，具有适用于 Android、iOS、Linux、macOS 和 Windows 的原生应用。</span></p>
-<p><span>它还支持一系列协议（TOTP、推送通知等）和网站，并且可以轻松备份。</span></p>
-<p><span>使用 Authy，您可以轻松保护您的在线帐户。您可以像使用任何其他应用程序一样携带令牌。它还会加密备份。</span></p>
-<p><span>Authy 使用的算法与 NSA 保护其超级机密所用的算法相同。</span></p>
-<p><span>Twilio Authy 是一款功能强大的实用程序应用程序，它拥有许多功能，并因其跨平台可用性而引人注目。</span></p>
-<p><strong><span>下载</span></strong><span>：  </span><a href="https://play.google.com/store/apps/details?id=com.authy.authy" target="_blank" rel="noopener nofollow" data-wpel-link="external"><span>Android</span></a><span>  |  </span><a href="https://apps.apple.com/app/authy/id494168017?platform=iphone" target="_blank" rel="noopener nofollow" data-wpel-link="external"><span>iOS</span></a></p>
-<h3 id="h-5-nbsp-icloud-keychain" class="wp-block-heading"><mark><span>#5. </span></mark><span>iCloud 钥匙串</span></h3>
-<p><span>从 iOS 15 开始，Apple 在 iCloud Keychain 应用中添加了原生 2FA 支持。现在，您也可以使用它来输入基于时间的代码来登录 Twitter。</span></p>
-<p><span>使用 iCloud Keychain 代码生成可以说更安全，因为这家库比蒂诺科技巨头以其用户隐私和安全而闻名。此外，它会同步到您的 iCloud 帐户，提供无缝可用性。例如，我可以使用安装在 Windows 计算机上的 iCloud 应用程序上生成的 TOTP 代码。</span></p>
-<h2 class="geekflare-core-exception-smartlist-h2 is-exception"><span>最后的话</span></h2>
-<p><span>设置额外的 Twitter（现在为 X）身份验证将提高您帐户的安全性。但是，即使启用了双因素身份验证，最佳做法也是使用强密码。定期更改密码并使用密码管理器是最佳选择。</span></p>
-<p><span>此外，您还可以将 2FA 与其他安全措施（例如生物识别认证）相结合，使 2FA 更加有效。</span></p>
-<p><a rel="nofollow" href="https://twitteraccount.github.io/steps-to-set-up-app-based-2fa-on-twitter/">如何在 Twitter 上使用代码生成器 2FA（分步说明）</a>最先出现在<a rel="nofollow" href="https://twitteraccount.github.io/">推特账号购买平台</a>。</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://twitteraccount.github.io/steps-to-set-up-app-based-2fa-on-twitter/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>如何在 Twitter 上隐藏点赞以获得更多隐私</title>
-		<link>https://twitteraccount.github.io/how-to-hide-likes-on-twitter/</link>
-					<comments>https://twitteraccount.github.io/how-to-hide-likes-on-twitter/#respond</comments>
-		
-		<dc:creator><![CDATA[推特购买平台]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 12:02:53 +0000</pubDate>
-				<category><![CDATA[推特wiki]]></category>
-		<guid isPermaLink="false">https://twitteraccount.github.io/?p=367</guid>
-
-					<description><![CDATA[<p>在 Twitter 上点赞（或 X）之前，你是否停顿过？双击帖子已经成为我们表达欣赏、支持或只是认可某件有趣的 ... <a title="如何在 Twitter 上隐藏点赞以获得更多隐私" class="read-more" href="https://twitteraccount.github.io/how-to-hide-likes-on-twitter/" aria-label="Read more about 如何在 Twitter 上隐藏点赞以获得更多隐私">阅读更多</a></p>
-<p><a rel="nofollow" href="https://twitteraccount.github.io/how-to-hide-likes-on-twitter/">如何在 Twitter 上隐藏点赞以获得更多隐私</a>最先出现在<a rel="nofollow" href="https://twitteraccount.github.io/">推特账号购买平台</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p>在 Twitter 上点赞（或 X）之前，你是否停顿过？双击帖子已经成为我们表达欣赏、支持或只是认可某件有趣的事情的方式。然而，从某种意义上来说，每次点击也是一种公开认可——让任何有兴趣的人都能一窥我们的喜好和信仰。</p>
-<p>社交媒体上的隐私概念似乎很矛盾。随着我们越来越意识到自己的网络身份，许多人都在问一个关键问题：我们如何才能在享受我们喜欢的内容的同时，保持我们的偏好的私密性？这种担忧引发了人们对加强社交媒体互动控制的需求，尤其是在 Twitter 等平台上</p>
-<p>为了解决公开点赞带来的隐私问题，<strong>Twitter 于 2024 年 6 月正式推出了一项更新，将所有用户的点赞隐藏起来。</strong>您再也不必费尽心思去想如何在 Twitter 上隐藏点赞了。</p>
-<p>但仅此而已吗？让我们来看看到底是怎么回事。</p>
-<h2>在 Twitter 上隐藏点赞的原因</h2>
-<p>隐藏 Twitter 点赞信息不让公众看到是合理的。以下是一些 Twitter 用户喜欢隐藏点赞信息的常见原因：</p>
-<ul role="list">
-<li><strong>隐私问题：</strong>您的 Twitter 点赞信息会透露很多有关您的偏好、兴趣和意识形态的信息。隐藏这些信息是保护隐私的重要一步。</li>
-</ul>
-<ul role="list">
-<li><strong>职业原因：</strong>大多数专业人士使用 Twitter 进行社交、求职或了解行业趋势。他们喜欢隐藏自己的喜好，以保持特定的职业形象，避免职业形象受到任何个人偏见的影响。</li>
-</ul>
-<ul role="list">
-<li><strong>避开垃圾邮件：</strong>点赞某个帐户（尤其是商业或促销帐户）的推文可能会导致频繁收到未经请求的直接消息（如促销内容）。隐藏点赞可以帮助您避免此类数字混乱。</li>
-</ul>
-<ul role="list">
-<li><strong>避免负面看法</strong>：点赞有争议的推文有时会导致误解或负面看法。隐藏点赞可让您远离评判。</li>
-</ul>
-<ul role="list">
-<li><strong>在线安全</strong>：隐藏您的喜好还可以最大限度地减少您的数字足迹，并保护您免受潜在类型的网络攻击，如人肉搜索或网络跟踪。</li>
-</ul>
-<p>无论出于何种原因，保护您在 Twitter 上的点赞都会为您带来更安全、更个性化的 Twitter 体验，让您可以控制自己的隐私。</p>
-<h2>谁可以看到您的 Twitter 点赞？</h2>
-<p><a href="https://x.com/settings/privacy_and_safety" target="_blank" rel="noopener">鉴于Twitter 隐私设置</a>的最新变化，只有您才能看到您点赞的推文。其他人（包括关注者和非关注者）将无权访问此信息。此更改是为了改善用户隐私而实施的，这意味着现在所有用户的点赞默认都是私密的。</p>
-<p>以下是需要注意的一些要点：</p>
-<ul role="list">
-<li><strong>可见性</strong>：只有您可以看到您喜欢的推文。其他人无法查看您的喜欢。</li>
-<li><strong>点赞数：</strong>虽然其他人无法看到谁点赞了某个帖子，但点赞数仍然对公众可见。</li>
-<li><strong>私下参与</strong>：这一变化允许用户参与内容而不必担心公众的评判或强烈反对。</li>
-</ul>
-<h2>如何在 Twitter 上隐藏点赞</h2>
-<p>鉴于最近的政策变化，在 Twitter 上隐藏点赞变得更加容易，也变得更加简单直接。这里有一份详细的指南，可以回答你迫切的问题：你可以在 Twitter 上隐藏你的点赞吗？</p>
-<h3>最近的政策变化</h3>
-<p>Twitter 已默认为所有用户私密点赞，这意味着只有您可以看到您点赞的推文；其他人将无法访问此信息。</p>
-<h3>将你的帐户设为私人帐户</h3>
-<p>确保额外隐私的最简单方法是将您的 Twitter 帐户设为私密。这将隐藏您的点赞，并将您的推文的可见性限制在您批准的关注者范围内。操作方法如下：</p>
-<ul role="list">
-<li>转到您的个人资料，然后单击左上角的个人资料图片。</li>
-<li>从菜单中选择“设置和支持”。</li>
-<li>点击“隐私和安全”选项。</li>
-</ul>
-<ul role="list">
-<li>在“受众、媒体和标签”部分下，切换“保护您的推文”选项。</li>
-</ul>
-<h2>了解影响</h2>
-<ul role="list">
-<li><strong>私人点赞</strong>：最近更新后，你的点赞默认为私人，只有你才能看到</li>
-<li><strong>公开可见性</strong>：将您的帐户设置为私人帐户还会将您的推文隐藏起来，不让公众查看，而仅限于您批准的关注者查看。</li>
-</ul>
-<h2>替代方法</h2>
-<p>虽然将你的帐户设为私人帐户是最直接的方法，但你也可以手动取消点赞推文，将其从你点赞的帖子中删除：</p>
-<ul role="list">
-<li>点击左上角的个人资料图片</li>
-<li>点击“点赞”按钮即可查看您点赞的帖子</li>
-<li>再次点击每篇帖子上的“赞”按钮即可将其“赞”</li>
-</ul>
-<h3>需要考虑的事情</h3>
-<ul role="list">
-<li>对于专业或商业帐户，将帐户设为私密可能会限制您的访问范围。在这种情况下，默认的私人点赞功能很有用</li>
-<li>确保定期检查你的隐私设置，以保持对在线状态的控制</li>
-</ul>
-<h2>学习如何隐藏 Twitter 上的点赞，重新掌控你的隐私</h2>
-<p>Twitter 最近的政策变化使保护您的隐私和在平台上真实互动变得比以往任何时候都更加容易。默认情况下，您的点赞现在对公众隐藏，让您可以自由表达自己，而不必担心受到评判或不必要的关注。</p>
-<p>为了进一步增强您的隐私，请考虑将您的 Twitter 帐户设为私密，这样非关注者就看不到您的推文和点赞。</p>
-<p>想要扩大您的 Twitter 帐户并吸引更多关注者吗？</p>
-<p><a rel="nofollow" href="https://twitteraccount.github.io/how-to-hide-likes-on-twitter/">如何在 Twitter 上隐藏点赞以获得更多隐私</a>最先出现在<a rel="nofollow" href="https://twitteraccount.github.io/">推特账号购买平台</a>。</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://twitteraccount.github.io/how-to-hide-likes-on-twitter/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
