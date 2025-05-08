@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	「推特账号购买平台」的评论	</title>
-	<atom:link href="https://twitteraccount.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://twitteraccount.github.io/</link>
+	「Twitter 二维码生成器」的评论	</title>
+	<atom:link href="https://twitteraccount.github.io/qr-code-generator/feed/" rel="self" type="application/rss+xml" />
+	<link>https://twitteraccount.github.io/qr-code-generator/</link>
 	<description></description>
 	<lastBuildDate>Thu, 08 May 2025 13:04:19 +0000</lastBuildDate>
 	<sy:updatePeriod>
