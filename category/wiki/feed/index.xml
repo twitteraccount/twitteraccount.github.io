@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8</generator>
+	<generator>https://wordpress.org/?v=6.8.3</generator>
 	<item>
 		<title>为什么 Twitter 搜索无法正常工作</title>
 		<link>https://twitteraccount.github.io/twitter-search-not-working-what-is-the-best-alternative/</link>
@@ -914,9 +914,9 @@
 </div>
 <hr class="MuiDivider-root MuiDivider-fullWidth mui-style-39bbo6" />
 <div class="MuiBox-root mui-style-1ruxp1v">
-<p class="MuiTypography-root MuiTypography-body1 mui-style-17b2su5"><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" />几分钟内即可创建你的媒体工具包</p>
-<p class="MuiTypography-root MuiTypography-body1 mui-style-17b2su5"><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2705.png" alt="✅" class="wp-smiley" style="height: 1em; max-height: 1em;" />自动更新</p>
-<p class="MuiTypography-root MuiTypography-body1 mui-style-17b2su5"><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f4ac.png" alt="💬" class="wp-smiley" style="height: 1em; max-height: 1em;" />点击按钮即可分享</p>
+<p class="MuiTypography-root MuiTypography-body1 mui-style-17b2su5"><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" />几分钟内即可创建你的媒体工具包</p>
+<p class="MuiTypography-root MuiTypography-body1 mui-style-17b2su5"><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2705.png" alt="✅" class="wp-smiley" style="height: 1em; max-height: 1em;" />自动更新</p>
+<p class="MuiTypography-root MuiTypography-body1 mui-style-17b2su5"><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4ac.png" alt="💬" class="wp-smiley" style="height: 1em; max-height: 1em;" />点击按钮即可分享</p>
 </div>
 <hr class="MuiDivider-root MuiDivider-fullWidth mui-style-39bbo6" />
 <div class="MuiBox-root mui-style-1586bog">
@@ -1082,7 +1082,7 @@ Twitter（或 X）的参与率较低。0.5% 到 1% 的中位参与率被认为�
 <li>您还可以调整其他过滤器（如语言、内容类型和时间段）来缩小搜索结果。</li>
 </ol>
 <div class="kg-card kg-callout-card kg-callout-card-grey">
-<div class="kg-callout-emoji"><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /></div>
+<div class="kg-callout-emoji"><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /></div>
 <div class="kg-callout-text">如果你想根据某些标准筛选附近的推文，可以使用<strong>Twitter 搜索运算符</strong>。或者你也可以直接选择使用 Circleboom，它为你提供了许多<strong>高级搜索过滤器</strong>。</div>
 </div>
 <hr />
