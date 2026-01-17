@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the WordPress - 6.8.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-23 10:18:49+0000\n"
+"PO-Revision-Date: 2025-11-13 16:26:14+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: GlotPress/4.0.1\n"
+"X-Generator: GlotPress/4.0.3\n"
 "Language: zh_CN\n"
 "Project-Id-Version: WordPress - 6.8.x - Development - Administration\n"
 
@@ -37,6 +37,10 @@ msgctxt "default GMT offset or timezone string"
 msgid "0"
 msgstr "Asia/Shanghai"
 
+#: wp-admin/about.php:138
+msgid "Speculative loading speeds up navigation by preloading links before users navigate to them, bcrypt hashing strengthens password security automatically, and database optimizations improve performance."
+msgstr "推测加载通过在用户浏览链接之前预加载链接来加快速度，bcrypt 哈希算法可自动加强密码安全性，数据库优化可提高性能。"
+
 #. translators: 1: URL to WordPress release notes, 2: WordPress version number,
 #. 3: The PHP extension name needed.
 #: wp-admin/upgrade.php:68
@@ -51,7 +55,7 @@ msgstr "删除主题时发生错误。"
 #: wp-admin/themes.php:255 wp-admin/network/menu.php:86
 #: wp-admin/network/themes.php:366
 msgid "Add Theme"
-msgstr "添加主题"
+msgstr "安装主题"
 
 #. translators: %s: https://wordpress.org/about/privacy
 #: wp-admin/privacy.php:62
@@ -80,7 +84,7 @@ msgstr "添加用户"
 
 #: wp-admin/menu.php:311 wp-admin/plugins.php:770 wp-admin/network/menu.php:111
 msgid "Add Plugin"
-msgstr "添加插件"
+msgstr "安装插件"
 
 #: wp-admin/menu.php:217
 msgctxt "design menu item"
@@ -109,7 +113,7 @@ msgstr "您无法安装，因为 <a href=\"%1$s\">WordPress %2$s</a> 需要 %3$s
 msgid "Add Custom Field:"
 msgstr "添加自定义字段："
 
-#: wp-admin/includes/revision.php:469
+#: wp-admin/includes/revision.php:471
 msgid "An error occurred while loading the comparison. Please refresh the page and try again."
 msgstr "加载比较时发生错误。请刷新页面并重试。"
 
@@ -216,76 +220,68 @@ msgstr "小版本发布主管"
 msgid "Release Coordination"
 msgstr "版本发布协调"
 
-#: wp-admin/about.php:164
+#: wp-admin/about.php:239
 msgid "WordPress 6.8 packs a wide range of performance fixes and enhancements to speed up everything from editing to browsing. Beyond speculative loading, WordPress 6.8 pays special attention to the block editor, block type registration, and query caching. Plus, imagine never waiting longer than 50 milliseconds—for any interaction. In WordPress 6.8, the Interactivity API takes a first step toward that goal."
 msgstr "WordPress 6.8 包含大量性能修复和增强功能，可加快从编辑到浏览的所有速度。除了推测加载，WordPress 6.8 还特别关注区块编辑器、区块类型注册和查询缓存。此外，想象一下，任何交互的等待时间都不会超过 50 毫秒。在 WordPress 6.8 中，交互 API（Interactivity API）向这一目标迈出了第一步。"
 
-#: wp-admin/about.php:151
+#: wp-admin/about.php:226
 msgid "Work continues on optimizing cache key generation in the <code>WP_Query</code> class. The goal is, as ever, to boost your site&#8217;s performance, in this case by taking some more of the load off your database. This is especially good if you get a lot of traffic."
 msgstr "优化 <code>WP_Query</code> 类中缓存键生成的工作仍在继续。我们的目标是一如既往地提高网站性能，在这种情况下，我们的目标是减轻数据库的负担。如果您的网站流量很大，这一点尤为重要。"
 
-#: wp-admin/about.php:150
+#: wp-admin/about.php:225
 msgid "Take a load off the database"
 msgstr "减轻数据库的负担"
 
-#: wp-admin/about.php:142
+#: wp-admin/about.php:217
 msgid "100+ accessibility fixes and enhancements touch a broad spectrum of the WordPress experience. This release includes fixes to every bundled theme, improvements to the navigation menu management, the customizer, and simplified labeling. The Block Editor has over 70 improvements to blocks, DataViews, and to its overall user experience."
 msgstr "100 多项可访问性修复和增强功能涉及 WordPress 体验的方方面面。该版本包括对每个捆绑主题的修复，对导航菜单管理、定制器和简化标签的改进。区块编辑器对区块、数据视图及其整体用户体验进行了 70 多处改进。"
 
-#: wp-admin/about.php:128
+#: wp-admin/about.php:203
 msgid "Now passwords are harder to crack with bcrypt hashing, which takes a lot more computing power to break. This strengthens overall security, as do other encryption improvements across WordPress. You don&#8217;t need to do anything—everything updates automatically."
 msgstr "现在，使用 bcrypt 哈希算法的密码更难被破解，破解它们需要更强的计算能力。这与 WordPress 的其他加密改进一样，增强了整体安全性。您不需要做任何事情，一切都会自动更新。"
 
-#: wp-admin/about.php:127
+#: wp-admin/about.php:202
 msgid "Stronger password security with bcrypt"
 msgstr "使用 bcrypt 提高密码安全性"
 
-#: wp-admin/about.php:111
+#: wp-admin/about.php:186
 msgid "In WordPress 6.8, pages load faster than ever. When you or your user hovers over or clicks a link, WordPress may preload the next page, for a smoother, near-instant experience. The system balances speed and efficiency, and you can control how it works, with a plugin or your own code. This feature only works in modern browsers—older ones will simply ignore it without any impact."
 msgstr "在 WordPress 6.8 中，页面加载速度比以往任何时候都快。当您或您的用户悬停或点击一个链接时，WordPress 可能会预载下一个页面，从而带来更流畅、近乎即时的体验。该系统兼顾了速度和效率，您可以使用插件或自己的代码来控制其工作方式。该功能仅适用于现代浏览器，老式浏览器会直接忽略它，不会产生任何影响。"
 
-#: wp-admin/about.php:110
+#: wp-admin/about.php:185
 msgid "Near-instant page loads, thanks to Speculative Loading"
 msgstr "得益于「推测加载」功能，页面加载近乎即时"
 
-#: wp-admin/about.php:104
+#: wp-admin/about.php:179
 msgid "Easier ways to see your options in Data Views, and you can exclude sticky posts from the Query Loop. Plus, you&#8217;ll find lots of little improvements in the editor that smooth your way through everything you build."
 msgstr "在「数据视图」中更方便地查看选项，还可以将置顶文章排除在查询循环之外。此外，您还会在编辑器中发现很多小改进，让您在创建任何内容时都更加顺畅。"
 
-#: wp-admin/about.php:83
+#: wp-admin/about.php:158
 msgid "Plus, now you can see it in Classic themes that have editor-styles or a theme.json file. Find the Style Book under Appearance > Design and use it to preview your theme&#8217;s evolution, as you edit CSS or make changes in the Customizer."
 msgstr "此外，现在你还可以在具有编辑器样式或 theme.json 文件的经典主题中看到它。在外观 > 设计下找到「样式示范」，在编辑 CSS 或在定制器中进行更改时使用它来预览主题的演变。"
 
 #. translators: %s is a direct link to the Style Book.
-#: wp-admin/about.php:79
+#: wp-admin/about.php:154
 msgid "Plus, now you can see it in Classic themes that have editor-styles or a theme.json file. Find <a href=\"%s\">the Style Book</a> under Appearance > Design and use it to preview your theme&#8217;s evolution, as you edit CSS or make changes in the Customizer."
 msgstr "此外，现在您还可以在具有编辑器样式或 theme.json 文件的经典主题中看到它。在外观 > 设计下找到 <a href=\"%s\">样式示范</a>，并在编辑 CSS 或在定制器中进行更改时使用它来预览主题的演变。"
 
-#: wp-admin/about.php:71
+#: wp-admin/about.php:146
 msgid "The Style Book has a new, structured layout and clearer labels, to make it even easier to edit colors, typography—almost all your site styles—in one place."
 msgstr "「样式示范」采用了全新的结构化布局和更清晰的标签，让您更轻松地在一个地方编辑颜色、排版--几乎所有的网站风格。"
 
-#: wp-admin/about.php:69
+#: wp-admin/about.php:144
 msgid "The Style Book gets a cleaner look—and a few new tricks"
 msgstr "「样式示范」外观更简洁，还有一些新技巧"
 
-#: wp-admin/about.php:63
-msgid "Behind the scenes, database optimizations improve performance, and a new security warning system helps prevent vulnerabilities before they become a problem."
-msgstr "在幕后，数据库优化提高了性能，而新的安全预警系统则有助于防患于未然。"
-
-#: wp-admin/about.php:62
-msgid "Speculative loading speeds up navigation by preloading links before users navigate to them, while bcrypt hashing strengthens password security automatically."
-msgstr "通过在用户浏览链接之前预加载链接，「推测加载」功能可加快浏览速度，而 bcrypt 哈希算法可自动加强密码安全性。"
-
-#: wp-admin/about.php:61
+#: wp-admin/about.php:137
 msgid "The Style Book now has a structured layout and works with Classic themes, giving you more control over global styles."
 msgstr "现在，「样式示范」采用了结构化布局，并可与经典主题一起使用，让您对全局样式拥有更多控制权。"
 
-#: wp-admin/about.php:60
+#: wp-admin/about.php:136
 msgid "WordPress 6.8 polishes and refines the tools you use every day, making your site faster, more secure, and easier to manage."
 msgstr "WordPress 6.8 改进并完善了您日常使用的工具，使您的网站更快、更安全、更易于管理。"
 
-#: wp-admin/about.php:59
+#: wp-admin/about.php:135
 msgid "A release polished to a high sheen."
 msgstr "一个打磨得光彩照人的版本。"
 
@@ -388,12 +384,12 @@ msgid "Skip to Editor"
 msgstr "跳转到编辑器"
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:259
+#: wp-admin/about.php:334
 msgid "WordPress %s Field Guide"
 msgstr "WordPress %s 技术指南"
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:232
+#: wp-admin/about.php:307
 msgid "WordPress %s Release Notes"
 msgstr "WordPress %s 发布说明"
 
@@ -552,20 +548,20 @@ msgstr "如果您是插件作者，可以了解更多有关<a href=\"https://dev
 msgid "If you are a plugin author, you can learn more about <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-eraser-to-your-plugin/\">how to add the Personal Data Eraser to a plugin</a>."
 msgstr "如果您是插件作者，可以了解更多有关<a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-eraser-to-your-plugin/\">如何将个人数据抹除器添加到插件</a>的信息。"
 
-#: wp-admin/about.php:185
+#: wp-admin/about.php:260
 msgid "See everything new"
 msgstr "查看所有新内容"
 
-#: wp-admin/about.php:185
+#: wp-admin/about.php:260
 msgid "https://wordpress.org/download/releases/6-8/"
 msgstr "https://cn.wordpress.org/download/releases/6-8/"
 
 #. translators: %s: Version number.
-#: wp-admin/about.php:177
+#: wp-admin/about.php:252
 msgid "For a comprehensive overview of all the new features and enhancements in WordPress %s, please visit the feature-showcase website."
 msgstr "要全面了解 WordPress %s 的所有新功能和改进项目，请访问功能展示网站。"
 
-#: wp-admin/about.php:171
+#: wp-admin/about.php:246
 msgid "And much more"
 msgstr "还有更多"
 
@@ -707,11 +703,11 @@ msgstr "立即安装"
 msgid "Created by a worldwide team of passionate individuals"
 msgstr "由全球热心人士组成的团队打造"
 
-#: wp-admin/about.php:141
+#: wp-admin/about.php:216
 msgid "Accessibility improvements"
 msgstr "可访问性改进"
 
-#: wp-admin/about.php:163
+#: wp-admin/about.php:238
 msgid "Performance updates"
 msgstr "性能更新"
 
@@ -775,12 +771,12 @@ msgid "When using Bulk Edit, you can change the metadata (categories, author, et
 msgstr "使用批量编辑时，您可以一次性更改所有选定文章的元数据（类别、作者等）。要从分组中移除一篇文章，只需点击批量编辑区域中其名称旁边的 %s<span class=\"screen-reader-text\">移除</span>按钮即可。"
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:242
+#: wp-admin/about.php:317
 msgid "Read the WordPress %s Release Notes for information on installation, enhancements, fixed issues, release contributors, learning resources, and the list of file changes."
 msgstr "请阅读 WordPress %s 发行说明，了解有关安装、增强功能、修复问题、发行贡献者、学习资源和文件更改列表的信息。"
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:269
+#: wp-admin/about.php:344
 msgid "Explore the WordPress %s Field Guide. Learn about the changes in this release with detailed developer notes to help you build with WordPress."
 msgstr "探索 WordPress %s 技术指南。 通过详细的开发人员说明了解此版本中的更改，以帮助您使用 WordPress 进行构建。"
 
@@ -799,6 +795,11 @@ msgstr "服务器上的 PHP 版本是 %1$s，但新插件版本需要 %2$s。"
 #: wp-admin/includes/class-plugin-upgrader.php:353
 msgid "Your WordPress version is %1$s, however the new plugin version requires %2$s."
 msgstr "您的 WordPress 版本是 %1$s，但新插件版本需要 %2$s。"
+
+#. translators: %s: WordPress version.
+#: wp-admin/about.php:74 wp-admin/about.php:99 wp-admin/about.php:124
+msgid "https://wordpress.org/support/wordpress-version/version-%s/"
+msgstr "https://wordpress.org/support/wordpress-version/version-%s/"
 
 #: wp-admin/contribute.php:103 wp-admin/credits.php:57 wp-admin/credits.php:65
 msgid "https://make.wordpress.org/contribute/"
@@ -1263,7 +1264,7 @@ msgid "Be the future of WordPress"
 msgstr "成为 WordPress 的未来"
 
 #. translators: 1: Learn WordPress link, 2: Workshops link.
-#: wp-admin/about.php:210
+#: wp-admin/about.php:285
 msgid "<a href=\"%1$s\">Learn WordPress</a> is a free resource for new and experienced WordPress users. Learn is stocked with how-to videos on using various features in WordPress, <a href=\"%2$s\">interactive workshops</a> for exploring topics in-depth, and lesson plans for diving deep into specific areas of WordPress."
 msgstr "<a href=\"%1$s\">学习 WordPress</a> 是为 WordPress 新用户和经验丰富的用户提供的免费资源。学习包含有关使用 WordPress 中的各种功能的操作视频、用于深入探索主题的<a href=\"%2$s\">互动活动</a>以及用于深入了解 WordPress 特定领域的课程计划。"
 
@@ -1409,12 +1410,12 @@ msgid "<a href=\"https://wordpress.org/documentation/article/customizer/\">Docum
 msgstr "<a href=\"https://wordpress.org/documentation/article/customizer/\">定制器文档</a>"
 
 #. translators: The localized WordPress download URL.
-#: wp-admin/about.php:350
+#: wp-admin/about.php:425
 msgid "https://wordpress.org/download/"
 msgstr "https://cn.wordpress.org/download/"
 
 #. translators: %s: The major version of WordPress for this branch.
-#: wp-admin/about.php:347
+#: wp-admin/about.php:422
 msgid "This is the final release of WordPress %s"
 msgstr "这是 WordPress %s 的最终版本"
 
@@ -1473,7 +1474,7 @@ msgstr "区块主题是一个可以在站点的所有部分包括导航菜单、
 
 #: wp-admin/site-health.php:277
 msgid "Recommended items are considered beneficial to your site, although not as important to prioritize as a critical issue, they may include improvements to things such as; Performance, user experience, and more."
-msgstr "推荐改进项目是对您的站点有益处的项目，尽管其不像关键问题那样需要优先考虑，它们仍然包含对于如网站性能、用户体验等项目的改进。"
+msgstr "推荐项目对您的站点有益，尽管其不如关键问题那样需要优先考虑，但它们可能包括对性能、 用户体验等方面的改进。"
 
 #: wp-admin/site-health.php:264
 msgid "Critical issues are items that may have a high impact on your sites performance or security, and resolving these issues should be prioritized."
@@ -1736,12 +1737,12 @@ msgid "Reach out to WordPress Core developers to ensure you'll never have this p
 msgstr "联系 WordPress 核心开发人员以确保您不会再遇到这个问题。"
 
 #. translators: 1: WordPress version number, 2: Link to update WordPress
-#: wp-admin/about.php:344
+#: wp-admin/about.php:419
 msgid "Important! Your version of WordPress (%1$s) will stop receiving security updates in the near future. To keep your site secure, please <a href=\"%2$s\">update to the latest version of WordPress</a>."
 msgstr "重要！您使用的 WordPress 版本（%1$s）即将停止接收安全更新。 为了确保您站点的安全，请尽快 <a href=\"%2$s\">更新到最新的 WordPress 版本</a>。"
 
 #. translators: 1: WordPress version number, 2: Link to update WordPress
-#: wp-admin/about.php:341
+#: wp-admin/about.php:416
 msgid "Important! Your version of WordPress (%1$s) is no longer supported, you will not receive any security updates for your website. To keep your site secure, please <a href=\"%2$s\">update to the latest version of WordPress</a>."
 msgstr "重要！您使用的 WordPress 版本（%1$s）已不再受到支持，您的站点将不会再接收到任何的安全更新。 为了确保您站点的安全，请尽快 <a href=\"%2$s\">更新到最新的 WordPress 版本</a>。"
 
@@ -1751,7 +1752,7 @@ msgid "https://make.wordpress.org/core/wordpress-%s-field-guide/"
 msgstr "https://make.wordpress.org/core/wordpress-%s-field-guide/"
 
 #. translators: %s: Version number.
-#: wp-admin/about.php:201
+#: wp-admin/about.php:276
 msgid "Learn more about WordPress %s"
 msgstr "了解 WordPress %s"
 
@@ -2651,7 +2652,7 @@ msgstr "添加应用程序密码"
 msgid "Required to create an Application Password, but not to update the user."
 msgstr "此功能需要创建应用程序密码，但不需要更新用户信息。"
 
-#: wp-admin/about.php:285
+#: wp-admin/about.php:360
 msgid "Go to Updates"
 msgstr "转到「更新」页面"
 
@@ -4388,7 +4389,7 @@ msgstr "SQL 服务器是 WordPress 所必需的一份软件，用以存储您的
 
 #: wp-admin/includes/class-wp-site-health.php:889
 msgid "PHP modules perform most of the tasks on the server that make your site run. Any changes to these must be made by your server administrator."
-msgstr "PHP 模组为您的站点执行大多数任务。任何修改都需要由您的服务器管理员进行。"
+msgstr "PHP 模块为您的站点执行大多数任务。任何修改都需要由您的服务器管理员进行。"
 
 #: wp-admin/includes/class-wp-site-health.php:504
 msgid "Manage your themes"
@@ -4543,7 +4544,7 @@ msgstr "https://make.wordpress.org/hosting/handbook/handbook/server-environment/
 #. modules. 2: Additional link attributes. 3: Accessibility text.
 #: wp-admin/includes/class-wp-site-health.php:892
 msgid "The WordPress Hosting Team maintains a list of those modules, both recommended and required, in <a href=\"%1$s\" %2$s>the team handbook%3$s</a>."
-msgstr "WordPress 主机团队维护着一份必需和推荐的模组列表，列于<a href=\"%1$s\" %2$s>团队手册 %3$s</a>。"
+msgstr "WordPress 主机团队维护着一份必需和推荐的模块列表，位于<a href=\"%1$s\" %2$s>团队手册 %3$s</a>。"
 
 #: wp-admin/includes/class-wp-site-health.php:259
 #: wp-admin/includes/class-wp-site-health.php:737
@@ -4683,7 +4684,7 @@ msgstr[0] "%s 个推荐的改进"
 
 #: wp-admin/site-health.php:254
 msgid "The site health check shows information about your WordPress configuration and items that may need your attention."
-msgstr "站点健康检查向您显示关于您 WordPress 配置的信息，及需要您的注意的项目。"
+msgstr "站点健康检查向您显示有关您的 WordPress 配置以及可能需要您注意的项目的信息。"
 
 #: wp-admin/includes/dashboard.php:68 wp-admin/site-health.php:251
 msgid "Site Health Status"
@@ -4972,21 +4973,21 @@ msgstr "SQL 服务器已是最新"
 
 #: wp-admin/includes/class-wp-site-health.php:1101
 msgid "One or more required modules are missing"
-msgstr "缺少一个或多个必需的模组"
+msgstr "缺少一个或多个必需的模块"
 
 #: wp-admin/includes/class-wp-site-health.php:1098
 msgid "One or more recommended modules are missing"
-msgstr "缺少一个或多个推荐的模组"
+msgstr "缺少一个或多个推荐的模块"
 
 #. translators: %s: The module name.
 #: wp-admin/includes/class-wp-site-health.php:1070
 msgid "The optional module, %s, is not installed, or has been disabled."
-msgstr "可选的模组 %s 未被安装或已被禁用。"
+msgstr "可选的模块 %s 未被安装或已被禁用。"
 
 #. translators: %s: The module name.
 #: wp-admin/includes/class-wp-site-health.php:1061
 msgid "The required module, %s, is not installed, or has been disabled."
-msgstr "必需的模组 %s 未被安装或已被禁用。"
+msgstr "必需的模块 %s 未被安装或已被禁用。"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-site-health.php:1058
@@ -4997,7 +4998,7 @@ msgstr "错误"
 
 #: wp-admin/includes/class-wp-site-health.php:881
 msgid "Required and recommended modules are installed"
-msgstr "必需和推荐的模组均已安装"
+msgstr "必需和推荐的模块均已安装"
 
 #: wp-admin/includes/class-wp-site-health.php:712
 msgid "Your site does not have any default theme. Default themes are used by WordPress automatically if anything is wrong with your chosen theme."
@@ -7632,7 +7633,7 @@ msgstr "发布代表"
 msgid "Release Design Lead"
 msgstr "发布设计主管"
 
-#: wp-admin/about.php:103
+#: wp-admin/about.php:178
 msgid "Editor improvements"
 msgstr "编辑器改进"
 
@@ -8069,7 +8070,7 @@ msgid "(Currently set to: %s)"
 msgstr "（当前设置为：%s）"
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:315
+#: wp-admin/about.php:390
 msgid "<strong>Version %s</strong> addressed one security issue."
 msgstr "<strong>版本 %s</strong>修正了一个安全问题。"
 
@@ -8082,15 +8083,15 @@ msgstr "https://cn.gravatar.com/"
 msgid "Profile Picture"
 msgstr "资料图片"
 
-#: wp-admin/about.php:312
+#: wp-admin/about.php:59 wp-admin/about.php:387
 msgid "Maintenance and Security Releases"
 msgstr "维护和安全更新"
 
-#: wp-admin/about.php:309
+#: wp-admin/about.php:384
 msgid "Security Releases"
 msgstr "安全更新"
 
-#: wp-admin/about.php:306
+#: wp-admin/about.php:381
 msgid "Maintenance Releases"
 msgstr "维护更新"
 
@@ -10109,17 +10110,17 @@ msgstr "通过在侧面<strong>选择「比较两个版本」模块</strong>来�
 msgid "Compare any two revisions"
 msgstr "比较任意两个版本"
 
-#: wp-admin/includes/revision.php:455
+#: wp-admin/includes/revision.php:457
 msgid "Restore This Autosave"
 msgstr "恢复此自动保存"
 
 #. translators: %s: User's display name.
-#: wp-admin/includes/revision.php:427
+#: wp-admin/includes/revision.php:428
 msgid "Current Revision by %s"
 msgstr "当前修订版本由 %s 作出"
 
 #. translators: %s: User's display name.
-#: wp-admin/includes/revision.php:417
+#: wp-admin/includes/revision.php:418
 msgid "Autosave by %s"
 msgstr "%s 的自动保存"
 
@@ -10154,7 +10155,7 @@ msgid "\"%1$s\" from %2$s by %3$s."
 msgstr "《%1$s》，来自 %3$s 的 %2$s。"
 
 #. translators: %s: User's display name.
-#: wp-admin/includes/revision.php:437
+#: wp-admin/includes/revision.php:438
 msgid "Revision by %s"
 msgstr "由 %s 作出的版本"
 
@@ -10177,7 +10178,7 @@ msgstr "从左边栏中添加菜单项目。"
 #. translators: %s: https://wordpress.org/plugins
 #: wp-admin/includes/plugin-install.php:404
 msgid "Plugins extend and expand the functionality of WordPress. You may install plugins in the <a href=\"%s\">WordPress Plugin Directory</a> right from here, or upload a plugin in .zip format by clicking the button at the top of this page."
-msgstr "插件可以扩展和增强 WordPress 的功能。您可以从<a href=\"%s\">WordPress 插件目录</a>中自动安装插件，或者通过点击本页顶部的按钮上传 .zip 格式的插件文件。"
+msgstr "插件可以扩展和增强 WordPress 的功能。您可以从 <a href=\"%s\">WordPress 插件目录</a>中直接安装插件，或者通过点击本页顶部的按钮上传 .zip 格式的插件文件。"
 
 #. Plugin URI of the plugin
 #: hello.php
@@ -10392,7 +10393,7 @@ msgstr "发行于：%d。"
 msgid "%1$s by %2$s."
 msgstr "%1$s，由 %2$s。"
 
-#: wp-admin/includes/revision.php:457
+#: wp-admin/includes/revision.php:459
 msgid "Restore This Revision"
 msgstr "恢复此版本"
 
@@ -10539,7 +10540,7 @@ msgstr "要使用背景图片，您需先上传，或从媒体库中已上传过
 #. translators: 1: URL to browser uploader, 2: Additional link attributes.
 #: wp-admin/includes/media.php:3049
 msgid "You are using the multi-file uploader. Problems? Try the <a href=\"%1$s\" %2$s>browser uploader</a> instead."
-msgstr "您正在使用多文件上传工具。如果上传文件时遇到问题，请尝试使用<a href=\"%1$s\" %2$s>浏览器上传工具</a>。"
+msgstr "您正在使用多文件上传器。如果遇到问题，请尝试使用<a href=\"%1$s\" %2$s>浏览器上传器</a>。"
 
 #: wp-admin/async-upload.php:68
 msgctxt "media item"
@@ -10793,10 +10794,6 @@ msgstr "预览并安装"
 #: wp-admin/theme-install.php:129
 msgid "Once you have generated a list of themes, you can preview and install any of them. Click on the thumbnail of the theme you are interested in previewing. It will open up in a full-screen Preview page to give you a better idea of how that theme will look."
 msgstr "生成主题列表后，您可以预览或是安装任何一个主题。 单击您有兴趣预览的主题缩略图，主题将在全屏预览页面中打开，让您更直观地了解该主题的外观。"
-
-#: wp-admin/includes/media.php:3066
-msgid "You are using the browser&#8217;s built-in file uploader. The WordPress uploader includes multiple file selection and drag and drop capability. <a href=\"#\">Switch to the multi-file uploader</a>."
-msgstr "您正在使用浏览器内置的标准上传工具。 WordPress 提供了全新的上传工具，支持多选、拖放上传功能。<a href=\"#\">改用新的上传工具</a>。"
 
 #: wp-admin/tools.php:50
 msgid "The Categories and Tags Converter link on this screen will take you to the Import screen, where that Converter is one of the plugins you can install. Once that plugin is installed, the Activate Plugin &amp; Run Importer link will take you to a screen where you can choose to convert tags into categories or vice versa."
@@ -11352,45 +11349,48 @@ msgstr "输入此站点网络中已存在用户的邮箱地址以邀请他们加
 msgid "Show Toolbar when viewing site"
 msgstr "在浏览站点时显示工具栏"
 
+#. translators: %s: HelpHub URL.
 #. translators: %s: Documentation URL.
-#: wp-admin/about.php:338
+#: wp-admin/about.php:71 wp-admin/about.php:96 wp-admin/about.php:121
+#: wp-admin/about.php:413
 msgid "For more information, see <a href=\"%s\">the release notes</a>."
 msgstr "欲了解更多，参见<a href=\"%s\">发行注记</a>。"
 
 #. translators: 1: WordPress version number, 2: Plural number of bugs. More
 #. than one security issue.
-#: wp-admin/about.php:332
+#: wp-admin/about.php:407
 msgid "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bugs."
 msgstr[0] "<strong>%1$s 版本</strong>修补了安全漏洞、修正了 %2$s 个问题。"
 
 #. translators: 1: WordPress version number, 2: Plural number of bugs. Singular
 #. security issue.
-#: wp-admin/about.php:326
+#: wp-admin/about.php:401
 msgid "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bugs."
 msgstr[0] "<strong>%1$s 版本</strong>修补了安全漏洞、修正了 %2$s 个问题。"
 
 #. translators: 1: WordPress version number, 2: Plural number of bugs.
-#: wp-admin/about.php:320
+#: wp-admin/about.php:84 wp-admin/about.php:109 wp-admin/about.php:395
 msgid "<strong>Version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed %2$s bugs."
 msgstr[0] "<strong>%1$s 版本</strong>修复了 %2$s 个问题。"
 
+#. translators: %s: WordPress version.
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:317
+#: wp-admin/about.php:64 wp-admin/about.php:392
 msgid "<strong>Version %s</strong> addressed some security issues."
 msgstr "<strong>版本 %s</strong> 修正了一些安全问题。"
 
-#: wp-admin/about.php:311
+#: wp-admin/about.php:386
 msgid "Maintenance and Security Release"
 msgstr "维护和安全更新"
 
-#: wp-admin/about.php:308
+#: wp-admin/about.php:383
 msgid "Security Release"
 msgstr "安全更新"
 
-#: wp-admin/about.php:305
+#: wp-admin/about.php:380
 msgid "Maintenance Release"
 msgstr "维护更新"
 
@@ -11663,13 +11663,17 @@ msgstr "点击<strong>编辑</strong>可在编辑器中编辑该文章。直接�
 msgid "Because this is a multisite installation, you may add accounts that already exist on the Network by specifying a username or email, and defining a role. For more options, such as specifying a password, you have to be a Network Administrator and use the hover link under an existing user&#8217;s name to Edit the user profile under Network Admin > All Users."
 msgstr "由于当前多站点功能已经开启，您可以直接通过输入用户名或邮箱地址的方式将站点网络中的现有用户添加到站点中，然后为其指定用户角色。如需修改密码等其他信息，您需要拥有网络管理员的权限，访问「管理网络」>「所有用户」，然后将鼠标放置在用户名上方，点击出现的「编辑」链接。"
 
-#: wp-admin/about.php:292
+#: wp-admin/about.php:367
 msgid "Go to Dashboard &rarr; Home"
 msgstr "转到「仪表盘」 &rarr; 「首页」页面"
 
-#: wp-admin/about.php:285
+#: wp-admin/about.php:360
 msgid "Go to Dashboard &rarr; Updates"
 msgstr "转到「仪表盘」 &rarr; 「更新」页面"
+
+#: wp-admin/includes/media.php:3066
+msgid "You are using the browser&#8217;s built-in file uploader. The WordPress uploader includes multiple file selection and drag and drop capability. <a href=\"#\">Switch to the multi-file uploader</a>."
+msgstr "您正在使用的是浏览器内置的文件上传器。WordPress 上传器支持多文件选择和拖放功能。<a href=\"#\">切换到多文件上传器</a>。"
 
 #: wp-admin/user-edit.php:217
 msgid "Profile updated."
@@ -12436,10 +12440,6 @@ msgstr "应用筛选条件"
 #: wp-admin/includes/theme.php:338
 msgid "Editor Style"
 msgstr "编辑器样式支持"
-
-#: wp-admin/users.php:235
-msgid "Sorry, you are not allowed to edit users."
-msgstr "抱歉，您不能编辑该评论。"
 
 #: wp-admin/includes/file.php:2560
 msgid "To perform the requested action, WordPress needs to access your web server."
@@ -13359,7 +13359,7 @@ msgstr "WordPress 更新"
 msgid "Edit menu item"
 msgstr "编辑菜单项"
 
-#: wp-admin/about.php:292
+#: wp-admin/about.php:367
 msgid "Go to Dashboard"
 msgstr "转到「仪表盘」页面"
 
